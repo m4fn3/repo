@@ -248,6 +248,42 @@ Name: K2gecamen
 Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
 
+Package: com.m4fn3.k2geisland
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 9340
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.k2geisland_1.0.0_iphoneos-arm.deb
+Size: 2025460
+MD5sum: 9e58f6344c4fba2bf5255b3ed2e41156
+SHA1: bf8218745d6f21dc91dce4c3812e967951bdb572
+SHA256: bdd463d4402e3ee817dbbe0bd0ae70c5ffd1eab566a30580f9d47203e481f20f
+SHA512: e40b22c2061986a6fa4a09ca42cd719a463bfea6e672bd6c689ecca2cff24e10c01299926cb8575c29ae9f46692823adbc3d648a44d8fd32a43fecf66ce9f93b
+Description: Ultimate customization for your Dainamikku Airando!
+Name: K2geIsland
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2geIsland.png
+
+Package: com.m4fn3.k2geisland
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 9436
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.k2geisland_1.0.0_iphoneos-arm64.deb
+Size: 1979828
+MD5sum: 55503668963152dafb825764f18675d9
+SHA1: 482044dad6e1148d3dc32be6fe4f7ddf83b6df2c
+SHA256: 48fec2683525715015fe452d30212e773f789a21d0843fb817b09ab85f45ad52
+SHA512: f9e29a1e672f4a466c6632978c84b291baa4227abcca93181653c115ab783cdb44157fdc4c71c4d66f1faaff17517853521505f9bace6b5e41f3ad7e0cd4809c
+Description: Ultimate customization for your Dainamikku Airando!
+Name: K2geIsland
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2geIsland.png
+
 Package: com.m4fn3.k2genmity
 Architecture: iphoneos-arm
 Version: 2.0.0
