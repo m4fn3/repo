@@ -497,3 +497,57 @@ Description: Anti Jailbreak Detection for Mitsubishi UFJ
 Name: UFJ Patch
 Author: subdiox
 
+Package: com.m4fn3.k2ge3air
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 5072
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/k2ge3air_1.0.2_iphoneos-arm.deb
+Size: 1258112
+MD5sum: 45049a81846d0ee4898697dcc78ae692
+SHA1: 4f55f41c807cd994feb96cedfc4c14c674b898ab
+SHA256: 6b112f949d41e660c7ff389a745482a048dc004f64aaf3e76289c6192119f703
+SHA512: e1700608f0b618864a70c73391eb1762adf1a2b64e64d56a18b7a093ae4a0e20f9e911dbd6b609091382d61f4735d3c2df6effa84f27931ccf84e1a9a3852323
+Description: Enhance LINE features!
+Name: K2ge3Air
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2ge3Air.png
+
+Package: com.m4fn3.k2ge3air
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 5072
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/k2ge3air_1.0.2_iphoneos-arm64.deb
+Size: 1261398
+MD5sum: f840ae523eda1c5cfbb434a92127aa2f
+SHA1: 6eaf98381abe6245219f7c4520918c2a1fccef8a
+SHA256: 5decc1de01cf04255b5d5544b997e2d35f13497ff9bb5e88e9252816754272ea
+SHA512: dfa70565dde54f7ec32873a564b81004a2ae3d21664a4db81b69335c1c5ce08fcdb3f810d2248acfaae601b2cef1ea9e5462bae898c99b0a378c29ab2092e533
+Description: Enhance LINE features!
+Name: K2ge3Air
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2ge3Air.png
+
+Package: com.m4fn3.k2ge3air
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 5056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/k2ge3air_1.0.2_iphoneos-arm64e.deb
+Size: 1256810
+MD5sum: eb70e9041c2fedafe72165a491146124
+SHA1: 0b469b5b988923026b07516b52aa619bcc788c11
+SHA256: 294f0efbfca3d02722a78e1c5d7072e768a6fe6cbbf61bce661d12daa0b6f059
+SHA512: 01a60ef2f6b3944a883d309d7f81652ba4d8d78bc4cea2b54c8fc29d52c824b065320bc5345230e2f4dc051ad6122f2f45b84fb9a8d313f3b1df5244ce465bf6
+Description: Enhance LINE features!
+Name: K2ge3Air
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2ge3Air.png
+
