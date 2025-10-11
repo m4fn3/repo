@@ -1,0 +1,5 @@
+
+Sitemap: https://m4fn3.github.io/repo/sitemap.xml
+
+User-agent: *
+Disallow:
