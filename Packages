@@ -1,3 +1,20 @@
+Package: com.m4fn3.badgecolorfix17
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 168
+Depends: firmware (>= 17.0)
+Filename: ./debs/com.m4fn3.badgecolorfix17_1.0.0_iphoneos-arm64.deb
+Size: 3482
+MD5sum: 5601d816e39707901735441fe8dd41c9
+SHA1: c091f8de91a951f31bbef10f988c96d5f55d6c07
+SHA256: 4620d01b3ce945bb13d2ed7fae457b52e2dfb533f92a2a470615305cc2391e8f
+SHA512: 0a71d6834bc6e42a24a35448f21d829868c399e0778681e3d889ac9518e20a592b161b2feebccc883ee032db6ba0614ddf503a7966bed0d823e4f4f340f2e178
+Description: Fix badge color tweaks on iOS 17
+Name: BadgeColorFix17
+Author: mafu
+
 Package: com.m4fn3.gommirativ
 Architecture: iphoneos-arm
 Version: 1.0.0
