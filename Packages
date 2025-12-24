@@ -720,14 +720,14 @@ Architecture: iphoneos-arm
 Version: 1.0.5
 Section: Tweaks
 Maintainer: mafu
-Installed-Size: 4820
+Installed-Size: 4884
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
 Filename: ./debs/com.m4fn3.k2gecamen_1.0.5_iphoneos-arm.deb
-Size: 1565512
-MD5sum: e361be526795b8fb5060deaf12b33f2b
-SHA1: db3e63c477ec20b9d66d8e6487266eead4e0c392
-SHA256: 5062407697c9e1754a4e18523ed426eb052599f18bb319351cd10ba487063630
-SHA512: 2775e0801232fca409974e63bda0bf3c17e02eba63e29f996f8e630130c006707f0416ff90f363190721e5c9053aca32c3a61470423de1091cc89d08409402d4
+Size: 1591806
+MD5sum: 7cc63ee055d18c1a1d257d4162b3a9ab
+SHA1: 47ee58b01e30e903cf5269f6427f8244bbdab7bc
+SHA256: 218aae5da37bcf846e31c80f8b4f880ea9845a1b3b68f16476fc899a4b3ff2f2
+SHA512: 50b2681d5ed1143e9b8baf26475513dcac5d1d88fec15e34bd0651fab4d80ae52a36b8b5a9aaab29b0db9883e407dd8c95aa0aed6d402d721ecb066a9719955b
 Description: Capture moments with photos, videos, and audio in the background with ease.
 Name: K2gecamen
 Author: mafu
@@ -738,14 +738,14 @@ Architecture: iphoneos-arm64
 Version: 1.0.5
 Section: Tweaks
 Maintainer: mafu
-Installed-Size: 4836
+Installed-Size: 4884
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
 Filename: ./debs/com.m4fn3.k2gecamen_1.0.5_iphoneos-arm64.deb
-Size: 1573388
-MD5sum: db49d1ccc5e2c00d1cb32df2f69d99d7
-SHA1: c47431cc3310a84a79ce2704ba1e23c762aa9cee
-SHA256: 3b0ed84c734cfc34ef628aeb6ea9ad1929197f3b02f00e9e42102438883f5b3d
-SHA512: b0fecca373e906cd4c0ca0321b1a0f3180a14ced6ddf2beba82fc52fd296e8d360f342c61bd39cf3b5a0a50422aea8f0b79c7881ec9ce865ec7ccd786eb441dc
+Size: 1585792
+MD5sum: c6010c1947e53649b8eab95aa4196507
+SHA1: 543405771175b6bb71369c3534180281e7ee5a22
+SHA256: 66ed21a3b1c6508055d0217b18672c6a9264a90b1adbccf4f32ed5723c64d625
+SHA512: 5f6729a2a279441ec3f6957a01f4663e8a5722861f90581abdf4fff0c5d4bedc7f647efc0fd273fd5c04bffce18900841fd68b930797732abb7b3613ad43e3e4
 Description: Capture moments with photos, videos, and audio in the background with ease.
 Name: K2gecamen
 Author: mafu
