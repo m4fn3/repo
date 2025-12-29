@@ -535,6 +535,60 @@ Name: K2ge3Air
 Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/K2ge3Air.png
 
+Package: com.m4fn3.k2ge3air
+Architecture: iphoneos-arm
+Version: 1.0.7
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 5164
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.k2ge3air_1.0.7_iphoneos-arm.deb
+Size: 1289858
+MD5sum: ca13772a0da2da63bf72ea839bde6dcd
+SHA1: e38bf7fa4b18202cb73949f71b616f36ececda3c
+SHA256: c18cc50aeb0ef26f776bac334112d12b97ee1ea7561b0924d97573923aaaf7f3
+SHA512: e9363cf10b7aeb36a457144840c8af47eaf651dfe6e6cf311069b58dd65076d351750f62bb895005647b7633cd913a89ad684d11d1ad3268c1d8c410c8a5f26c
+Description: Enhance LINE features!
+Name: K2ge3Air
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2ge3Air.png
+
+Package: com.m4fn3.k2ge3air
+Architecture: iphoneos-arm64
+Version: 1.0.7
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 5164
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.k2ge3air_1.0.7_iphoneos-arm64.deb
+Size: 1286560
+MD5sum: ff33806598236f2e32523a3c0d514b57
+SHA1: 4876695dda62f0ccea8c8d491a51a0fba21e98a1
+SHA256: 050457b0acc9d752c6bceae2764d1bdf36191f2f84590d2778c509f4bdd5c940
+SHA512: 7dc9300eb3a975f5f15a839a63befa30dbafd4f65c9424dd49a0ad68177c9ee72825c240a4b402b36e63e503ffa5be0d7aab4637ccafeb39a5e36cfe28a53ea6
+Description: Enhance LINE features!
+Name: K2ge3Air
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2ge3Air.png
+
+Package: com.m4fn3.k2ge3air
+Architecture: iphoneos-arm64e
+Version: 1.0.7
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 5164
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.k2ge3air_1.0.7_iphoneos-arm64e.deb
+Size: 1287522
+MD5sum: 092ddef63c527ffb2990769c5e05e3d4
+SHA1: 8d435f19db411460d66039fb50fc839e1b379650
+SHA256: 340bc82d6870e679feebf73989e3b1a8d2dc28a2eb5751104b90fa24669e1b0d
+SHA512: 194840f1f49de72c4e50407f52e8c0b528781df83e24fbc110c412a148cdab523cf0b5dfe1579f7c79c9fe5084e92c8e655d7bdeeb27d85bb7594f514c8d22db
+Description: Enhance LINE features!
+Name: K2ge3Air
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2ge3Air.png
+
 Package: com.m4fn3.k2gecamen
 Architecture: iphoneos-arm
 Version: 1.0.0
