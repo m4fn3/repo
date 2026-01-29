@@ -450,42 +450,6 @@ Architecture: iphoneos-arm
 Version: 1.0.6
 Section: Tweaks
 Maintainer: mafu
-Installed-Size: 5180
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.m4fn3.k2ge3air_1.0.6_iphoneos-Sideload.deb
-Size: 1292806
-MD5sum: 1408b052e400537b1fd3b1de07409c54
-SHA1: 25099cec50024ba0e47f9ea2867dc36ee52af8c8
-SHA256: a6a650dcacbac7d39914a75ef15ffa682a268ec99682ed5e5e9a8d1841b272f8
-SHA512: 1de8644312e0e97094ed9b59166a26186f0f015e842e2d0441cd5b58ce7110f22501b1209bea3bfb90a6b1df96236fadf4305f0783bb786d69d9ce25ae9d7f35
-Description: Enhance LINE features!
-Name: K2ge3Air
-Author: mafu
-Icon: https://m4fn3.github.io/repo/web/images/K2ge3Air.png
-
-Package: com.m4fn3.k2ge3air
-Architecture: iphoneos-arm
-Version: 1.0.6
-Section: Tweaks
-Maintainer: mafu
-Installed-Size: 5164
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.m4fn3.k2ge3air_1.0.6_iphoneos-TrollStore.deb
-Size: 1287182
-MD5sum: 99759eab6638c60a4076de858e8ed46c
-SHA1: 059cb72597759ff070473a7679979a72ab19ffbd
-SHA256: 2f9dba3c244a2375863275574474109496d259f853c2d3019c2e88d08724b459
-SHA512: ed766133594b156b11712b1a535d5f204e92b2067d1c40b8f44173b2ccd9d08d94f8090031beb084336437f403cd5f0d7a7f4b11cf92fb87c9ff340f7517aef3
-Description: Enhance LINE features!
-Name: K2ge3Air
-Author: mafu
-Icon: https://m4fn3.github.io/repo/web/images/K2ge3Air.png
-
-Package: com.m4fn3.k2ge3air
-Architecture: iphoneos-arm
-Version: 1.0.6
-Section: Tweaks
-Maintainer: mafu
 Installed-Size: 5164
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.m4fn3.k2ge3air_1.0.6_iphoneos-arm.deb
@@ -588,6 +552,97 @@ Description: Enhance LINE features!
 Name: K2ge3Air
 Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/K2ge3Air.png
+
+Package: com.m4fn3.k2gecamen
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 6220
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.m4fn3.k2gecamen_1.0.5_iphoneos-arm.deb
+Size: 2114582
+MD5sum: 8ac338b80b6a3275bf853e91776a2b72
+SHA1: 2251328f02631cbf05445e5b61e171b4e4cb9a11
+SHA256: 290bbdac1a87b04e1f6d4ee6084a71ab87031bedfb576884727b74d030de92ca
+SHA512: b66a37a5254fc99c7fa2052cd1f9b0e84d76d35353cffd465f07afe29112fef2df7b5ccb42ba9b62788313026fa96031446e5cf6c7d9b51ec35920319d1fa6eb
+Description: Capture moments with photos, videos, and audio in the background with ease.
+Name: K2gecamen
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
+
+Package: com.m4fn3.k2gecamen
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 6204
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.m4fn3.k2gecamen_1.0.5_iphoneos-arm64.deb
+Size: 2111286
+MD5sum: 9883b6eb93dfbfc2effd9fa816b30bc4
+SHA1: 0eb78ec31ee6a3f16ff7ba10b282bfa7ce1fe4a1
+SHA256: b05d29f5032edba70f0e5ee683f9a8db31735c32b4d21e2cc29b8577039642be
+SHA512: 3a160da27b4531e5c4919a72f3dadaf70b0aebc4b59b1420c7d3a23eeb0730d8b3a4b4f5c6236dfad9d0bd50fb90e52a6d478713c781e0737053a5ceae2f1aa1
+Description: Capture moments with photos, videos, and audio in the background with ease.
+Name: K2gecamen
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
+
+Package: com.m4fn3.k2gecamen
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 6204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.m4fn3.k2gecamen_1.0.5_iphoneos-arm64e.deb
+Size: 5831968
+MD5sum: b254f9ace626ba00c5d5fab3ac7324a1
+SHA1: b43ab8d43ba81e3bf3fd0abe5c677ac2fd4fc941
+SHA256: 67b2ebf1f4cf82649dce1d1af5a161e1ca717ab3fac0eba4427ae2d5c2d9a2c6
+SHA512: 030d156b0a70e236f12bff1c46f1adb454ddb07afd479fa217ff13d1337978f1b918154b1753b77b2943a8f138395dd63675fb415465e6441c449be9b3d278b6
+Description: Capture moments with photos, videos, and audio in the background with ease.
+Name: K2gecamen
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
+
+Package: com.m4fn3.k2geisland
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 7200
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.k2geisland_1.0.0_iphoneos-arm.deb
+Size: 2668280
+MD5sum: 34e84f7716bbecdcf1dde767a8386f09
+SHA1: b63341227c679338e609cb073febf9042d6fbd98
+SHA256: 92c51b866c957251d80a5ac8bd5d4abf7d8ef8578f318e8c15e9c0d7b4de3e2d
+SHA512: 0701cb5626cbb9d9cea4b88a65ba6d47345d93b6433d8265925d3c50d360dcd2a488fe3e9514c48e0519244698edf8103e5bc6766120f63fdb1f2b4e699dc9d0
+Description: Ultimate customization for your Dainamikku Airando!
+Name: K2geIsland
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2geIsland.png
+
+Package: com.m4fn3.k2geisland
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 7248
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.k2geisland_1.0.0_iphoneos-arm64.deb
+Size: 2580654
+MD5sum: 9ce1b02222d5dd5eacd6946b46b3010a
+SHA1: 87aee2797b0bd29bb4732f92657035161e307734
+SHA256: 3900b3d8746765b0700845d012e577e8939111135c8b54882403d5a4303b09c6
+SHA512: e5143d084e5c61c334877638d2d4a9bfee35e157059003ef81d8631ce61796477cff1b96c7e56e6d38bd5268cf24e03b2b7849bf880fd7ee8ebecf977e589682
+Description: Ultimate customization for your Dainamikku Airando!
+Name: K2geIsland
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2geIsland.png
 
 Package: com.m4fn3.k2genmity
 Architecture: iphoneos-arm
