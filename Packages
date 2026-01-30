@@ -712,6 +712,42 @@ Description: Enhance features of Enmity plugins by mafu
 Name: K2genmity
 Author: mafu
 
+Package: com.m4fn3.myrtle
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 29528
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.myrtle_1.0.0_iphoneos-arm.deb
+Size: 8884624
+MD5sum: 8ec0fc2c6a1938aa0d7f3bce00c14d3e
+SHA1: 19ce001a90698d6a2852501de85c8b7743f60ebe
+SHA256: c833394270570fe1245a29a6ad6132feff8f8037599989b4ea2c783be2021d46
+SHA512: eafd28b109f714307a44109089bbb876efbcf08e6d333c734a4b894752a1b55bc38e90a04c3bc272f38fd1f13832c53605dc9736e61418f18091a2f588c29795
+Description: Ultimate control over your device through multitasking.
+Name: Myrtle
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
+
+Package: com.m4fn3.myrtle
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 29672
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.myrtle_1.0.0_iphoneos-arm64.deb
+Size: 8903026
+MD5sum: b1210642de22f9f5b278865f2083de6b
+SHA1: 295bf436603db41d00399a2a391962a8ccce9d53
+SHA256: 48b6eb51a740aa6cbc6a6262112291fcdb63f1f31ddbfafcf6d7836462071b4d
+SHA512: c7c343a157eca5b72b033c4453bb3508748acce9dfabae9a660b56ac73e6a36f1b8554c62bc1267bbc56bace2c80a4dfa2d655eaafbdc72c8e6b60548b2ac469
+Description: Ultimate control over your device through multitasking.
+Name: Myrtle
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
+
 Package: com.strejda603.documentsbyreaddlepremium
 Architecture: iphoneos-arm64
 Version: 1.0.1
