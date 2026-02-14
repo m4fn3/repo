@@ -1324,6 +1324,60 @@ Name: Myrtle
 Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
 
+Package: com.m4fn3.myrtle
+Architecture: iphoneos-arm
+Version: 1.1.4
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 10392
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.myrtle_1.1.4_iphoneos-arm.deb
+Size: 3133680
+MD5sum: 13a34cfee0bd6297c9e4059d6de746d5
+SHA1: 378c586235959f743691efe515251b31d4de6f7e
+SHA256: 587695d27690a7084151397cd2bebfa77f36c02e6eb85695c15a9e90bfdb28e9
+SHA512: 6a38132c19ceeefbdf5c8f7012c229b66b8b57dc2bb40aa78753edfdd4f0864985c44350a909fa070104579cde8ab317f54b6df9cc107636e879a516f96d3f8c
+Description: Ultimate control over your device through multitasking.
+Name: Myrtle
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
+
+Package: com.m4fn3.myrtle
+Architecture: iphoneos-arm64
+Version: 1.1.4
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 10392
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.myrtle_1.1.4_iphoneos-arm64.deb
+Size: 3132878
+MD5sum: a000a679d5a53c66bac13a04fa7c44a6
+SHA1: 83c2505dd83b59215bf2feb9f3c569ca6356a70d
+SHA256: dca2f360a230584ff0a717fd0371b9b1756306c871155b3ed5a9d5c047070916
+SHA512: 2b1966cbfc3291d375e191827f98157d2218a3d1133d775bb49368591c2016fa405fd147ffb63bffaef446357ff16af09dd905ae8f8498ba48c26e515f070140
+Description: Ultimate control over your device through multitasking.
+Name: Myrtle
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
+
+Package: com.m4fn3.myrtle
+Architecture: iphoneos-arm64e
+Version: 1.1.4
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 10428
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.myrtle_1.1.4_iphoneos-arm64e.deb
+Size: 3140534
+MD5sum: c4c425297b00d97b5197b0ea18f7961c
+SHA1: 5ef52b53dec161f8b0708783701491894c6548df
+SHA256: 853c46551262d71fcd6654c86c2ea892c55509dd81749b2f43d898f70721c030
+SHA512: fd7bae6db5fec5e876c1fdbd6a573db6206aacfb398e8f1a5598e850b849bbe7954915c4abdf48cd7821442e2cd05ead6b306c5f72ea34f53d5411a04e7e497b
+Description: Ultimate control over your device through multitasking.
+Name: Myrtle
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
+
 Package: com.strejda603.documentsbyreaddlepremium
 Architecture: iphoneos-arm64
 Version: 1.0.1
