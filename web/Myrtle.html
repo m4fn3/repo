@@ -91,6 +91,7 @@
             </p>
 
             <h1>Features</h1>
+            <p>Descriptions might not be up-to-date, because they are still being updated frequently. If you're curious what's new, check the changelogs below!</p>
             <h2>Beautiful edge handle</h2>
             <p>
                 Always-on overlay handle placed at the left or right edge.<br>
@@ -158,86 +159,86 @@
             </p>
             <h1>Changelogs</h1>
             <p>
-                v1.2.3: - Fix the regression of v1.2.2: <br>
+                2/22 - v1.2.3: - Fix the regression of v1.2.2: <br>
                 1. Fixed rotation issue when cold-starting landscape app <br>
                 2. Fixed black screen when opening same app or switching <br>
                 - Fixed the keyboard avoidance on landscape again <br>
                 - Exclude phone calling interface from recent app list <br>
                 - Fix some apps crash when loading launch screen for some users <br>
                 - Improved switching between fullscreen and window: support switching between landscape and portrait maybe <br>
-                v1.2.2: - Now we have proper launch animations! <br>
+                2/22 - v1.2.2: - Now we have proper launch animations! <br>
                 - Fixed the bug that snap or resizing window while cold-starting app will break the winwo layout <br>
                 - Added 4th ring to add more apps <br>
                 - Fixed sometimes window doesn't automatically avoid the keyboard when being overlapped in landscape mode <br>
                 - Addded an new action to reload the windowed app <br>
                 - Added more choice to tap outside action: close window / snap window (portrait only) <br>
                 - Fixed ios15 landscape adaption again <br>
-                v1.2.1- Fixed an crash when enablign tap outside action without both-side geastures enabled <br>
-                v1.2.0: - Added an option for performing actions when outside the window is tapped:  do nothing / close window / snap window <br>
+                2/21 - v1.2.1- Fixed an crash when enablign tap outside action without both-side geastures enabled <br>
+                2/21 - v1.2.0: - Added an option for performing actions when outside the window is tapped:  do nothing / close window / snap window <br>
                 - Improved landscape adaption: Now supports rotation inside Wechat, X and maybe more which use different rotation methods <br>
                 - Fixed safe area issue in landscape (also now always use original safearea) <br>
                 - Fixed sometimes the handle disappear or got place in the wrong position when the device is actively rotated or in somecases <br>
                 - Fixed the app launcher overlapped by keyboard in landscpe again (because ios gives us wrong value sometimes) <br>
                 - Added an option to disable handle in LockScreen <br>
-                v1.1.7: - Fixed AppLauncher being overleppaed by keyboard in landscape <br>
+                2/20 - v1.1.7: - Fixed AppLauncher being overleppaed by keyboard in landscape <br>
                 - Fixed auto-adaption for app rotation for ios15 <br>
                 - Fixed the crash when auto-close window after login with universal link in ios15 & 16.0.x <br>
                 - Fixed the misbehavior of "hiding selector and handle from screen capturing" options. Now window will be always shown in capturing properly. <br>
                 - Added support for cold-starting landscape apps <br>
-                v1.1.6: - Added an option to memorize the last position and size of the window in the specific conditions! <br>
+                2/19 - v1.1.6: - Added an option to memorize the last position and size of the window in the specific conditions! <br>
                 1. When device is in portrait and window is in portrait, it'll save the size and position. <br>
                 2. When window is snapped and window is in portrait, it'll save the size. <br>
                 This is also for those who wanted the window to be placed on the screen edge or center. <br>
                 - Changed the behavior of swipe up: when the window is moved from the default snap position, swipe up will move the window back to the default snap position instead of snapping to the other corner. <br>
-                v1.1.5: - Fixed the bug that opening windowed app (16:9) in fullscreen broke layouting (regression of v1.1.4) <br>
+                2/16 - v1.1.5: - Fixed the bug that opening windowed app (16:9) in fullscreen broke layouting (regression of v1.1.4) <br>
                 - Fixed the small gap in deafult position when swipe down <br>
-                v1.1.4: - Added animations when you opened selector / selected apps / triggered center-hold <br>
+                2/15 - v1.1.4: - Added animations when you opened selector / selected apps / triggered center-hold <br>
                 - Fixed some app got interrupted when switching the fullscreen app <br>
-                v1.1.3: - Fixed an issue of the keyboard being not responsive in some situations (drawback: input ares won't be placed at bottom any longer until I find a solution) <br>
+                2/14 - v1.1.3: - Fixed an issue of the keyboard being not responsive in some situations (drawback: input ares won't be placed at bottom any longer until I find a solution) <br>
                 - Changed the way to get recent apps to record it manually considering the app opened in window (It still won't show apps opened in window on an app switcher / it excludes apps which are already in the selector) <br>
                 - Improved the App Launcher with some optimizations: <br>
                 1. More reliably automatically open keyboard <br>
                 2. Click return key to select the top result and open it <br>
                 3. Optimized the result sorting algorithm <br>
                 - Rearranged some preferences in settings <br>
-                v1.1.2: - Adaptive keyboard height: avoid the input area being overlapped by keyboard when using 16:9 aspect ratio! Also keep the input area at bottom when window is snapped! <br>
+                2/13 - v1.1.2: - Adaptive keyboard height: avoid the input area being overlapped by keyboard when using 16:9 aspect ratio! Also keep the input area at bottom when window is snapped! <br>
                 - Added an option called smart notification opening: if the window is snapped or you are in a home screen, open the app from notification in fullscreen, otherwise in window <br>
                 - Adjusted selector colors to keep better visibility, including light mode support <br>
                 - Added new actions (Rotation Lock / Dark/Light mode / Wi-Fi / Location Services) <br>
-                v1.1.1: - Added new action to switch window/fullscreen apps! <br>
+                2/12 - v1.1.1: - Added new action to switch window/fullscreen apps! <br>
                 - Added new action to kill background apps / now playing app <br>
                 - Automatically close LockScreen when opening selector in LockScreen now <br>
                 - Fixed tapping on notifications of some apps in NotificationCenter caused some unexpected behavior <br>
                 - Added delay to snapper (freeze) <br>
                 - Adjusted toast position and size <br>
-                v1.1.0: - Added option for playing sound feedback <br>
+                2/10 - v1.1.0: - Added option for playing sound feedback <br>
                 - Adjusted app library design and colors <br>
                 - Adjustments for iOS15 <br>
                 1. As the previous 16:9 support breaks several things, I disabled 16:9 again on ios15 (Fixes landsacpe and fullscreen issue) <br>
                 2. However, I implemented partial support for it instead, which utilize different method than ios16. Not finished yet, and needs more investigations. <br>
-                v1.0.7: - Better support for system light mode (settings glyph & window's border) <br>
+                2/7 - v1.0.7: - Better support for system light mode (settings glyph & window's border) <br>
                 - Fixed an bug that swipes from very edge of the screen may not be recognized properly <br>
                 - Fixed camera in windowed apps <br>
                 - Added an option to disable haptic feedback / show toast when running actions <br>
                 - Now reflect the state of the toggle actions in the selector! (e.g. screen recoring, k2gecamen recording, vpn etc.) <br>  
                 - Added an option to ignore accidental fast swipes <br> 
-                v1.0.6: - Fixed 16:9 to properly apply 16:9 on ios15 devices <br>
+                2/6 - v1.0.6: - Fixed 16:9 to properly apply 16:9 on ios15 devices <br>
                 - Fixed system integrations (notifications and universal links) on ios 15 & 16.0.x devices <br>
-                v1.0.5: - Option to allow gestures on both sides! <br>
+                2/5 - v1.0.5: - Option to allow gestures on both sides! <br>
                 - Automatically adapt handle position to the place where gesture is triggered <br>
                 - Option to disable handle movements <br>
                 - Option to customize corner radius of window <br>
                 - Option to set distance between selector and the screen edge <br>
                 - Delay screenshot when hiding from recording is off <br>
-                v1.0.4: - Auto-hide the handle after specific period of inactivity <br>
+                2/4 - v1.0.4: - Auto-hide the handle after specific period of inactivity <br>
                 - Customizable height and additional gesture area <br>
                 - Customizable handle transparency <br>
-                v1.0.3: - more consistent handling of where window open (peroperly take center-hold into consideration when snapped & using app launcher) <br>
+                2/3 - v1.0.3: - more consistent handling of where window open (peroperly take center-hold into consideration when snapped & using app launcher) <br>
                 - fixed authorization and auto-close for qq/wechat <br>
                 - more rounded corner <br>
                 - smoother to switch to fullscreen (regression of v1.0.2)<br>
                 - implemented temporary free dynamic resize & movement (bottom area for movements / bottom right/left edges for resize)<br>
-                v1.0.2: - new actions (vpn, flashlight, respring) <br>
+                2/1 - v1.0.2: - new actions (vpn, flashlight, respring) <br>
                 - properly stop apps after closing windows (e.g. fix Tiktok continue running) <br>
                 - added an option to automatically close the fullscreen app when the same app is opened in window (default: on) <br>
                 - native RootHide support <br>
@@ -245,8 +246,8 @@
                 - fixed notification action for ios17 <br>
                 - better after-care <br>
                 - automatically close the window in specific conditions like authorizations <br>
-                v1.0.1: Optimized performance and lowered memory usage<br> 
-                v1.0.0: First release<br>
+                1/31 - v1.0.1: Optimized performance and lowered memory usage<br> 
+                1/30 - v1.0.0: First release<br>
             </p>
         </div>
     </div>
