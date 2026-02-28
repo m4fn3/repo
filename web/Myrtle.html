@@ -159,6 +159,12 @@
             </p>
             <h1>Changelogs</h1>
             <p>
+                2/28 - v1.2.6: - Added haptics to 3rd party keyboard. Need to enable Injection of MyrtleSupport to keyboard extensions of the app. (support of the injection into app's plugin may depend on the respective jailbreaks. I don't know if each jb will work or not, so don't ask me. Dopamine is confirmed to work, nathanlr and Bootstrap doesn't seem to support this.) <br>
+                - Properly close notification after opening notification in window <br>
+                - Apply dynamic dark/light change to the window even when opened forcefully on iOS15 <br>
+                - Restore the previous behavior of switching between portrait and landscape apps with switch action for iOS15 to avoid strange issues <br>
+                - Fixed the minor issue that switching to fullscreen while the launch animation is still being played may trigger the returning to home <br>
+                - Added external apis to trigger myrtle window. If you are a developer and interested in integrate Myrtle with your tweak, feel free to DM me for details. <br>
                 2/25 - v1.2.5: - Fixed the issue that  closing or switching to fullscreen when launch screen isn't fully completed lead to the window positioned in the weird place <br>
                 - Improved dynamic resizing for smoother experieinces <br>
                 - Changed the behavior of universal link blacklist: <br>
