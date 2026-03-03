@@ -720,12 +720,12 @@ Maintainer: mafu
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.m4fn3.mipip_1.0.0_iphoneos-arm64.deb
-Size: 3226
-MD5sum: c0bd89c4bf516ae924f9280ea22167f1
-SHA1: c6661cd99fa7dd361b4b6e60c277694c08e55924
-SHA256: 3c4a8688cacb7263831b369dbf5c998cea19269059b29e33d28bd8feb5f1794c
-SHA512: 88cd6b480853fc13fc3657e179aa50ebbf241c9d2d7858932cfdcf09dbb1133ae47f4ce0136a130cb31c966237bb8e63475aeafd6cc1f08ee8bbb8c730f54b19
-Description: show pip above myrtle window + hide pip from screen capture
+Size: 3232
+MD5sum: 0e26c5f28f4ab7275d812e0af5de43f5
+SHA1: 5c29e4864d6e31d8d3ea782579a17bce4f37cfcd
+SHA256: 5441a22cc6fbf98b4c1f530d0fc4de44f75c7fb8633e3d0b872fba1aaf20e5d6
+SHA512: b5572e0ca3efc033568627a6d09220d81794154b31f70b254221c4b9691ec5c983502587b4ec5abbabd7fae705ddfe7215acfaf0b510beed3a56d788897e85e5
+Description: show pip above myrtle window + hide pip from screen capture (ios16+)
 Name: miPiP
 Author: mafu
 
