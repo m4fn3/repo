@@ -712,6 +712,23 @@ Description: Enhance features of Enmity plugins by mafu
 Name: K2genmity
 Author: mafu
 
+Package: com.m4fn3.mipip
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.mipip_1.0.0_iphoneos-arm64.deb
+Size: 3226
+MD5sum: c0bd89c4bf516ae924f9280ea22167f1
+SHA1: c6661cd99fa7dd361b4b6e60c277694c08e55924
+SHA256: 3c4a8688cacb7263831b369dbf5c998cea19269059b29e33d28bd8feb5f1794c
+SHA512: 88cd6b480853fc13fc3657e179aa50ebbf241c9d2d7858932cfdcf09dbb1133ae47f4ce0136a130cb31c966237bb8e63475aeafd6cc1f08ee8bbb8c730f54b19
+Description: show pip above myrtle window + hide pip from screen capture
+Name: miPiP
+Author: mafu
+
 Package: com.m4fn3.myrtle
 Architecture: iphoneos-arm
 Version: 1.2.0
