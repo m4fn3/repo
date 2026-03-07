@@ -159,6 +159,12 @@
             </p>
             <h1>Changelogs</h1>
             <p>
+                3/7 - v1.3.0: - Support for showing keyboard when app is in landscape but the device is in portrait. You need to inject MyrtleSupport into the target app to show the keyboard correctly. Also supports showing keyboard when the app and device is in landscape. <br>
+                - Fixed a minor bug that keyboard flikcer when switching between apps with homebar <br>
+                - Added 3rd party keyboard vibaration support to more apps (It doesn't bypass the limitaion specifi to the jailberak environment mentioned previously) <br>
+                - Added a small improvement to selector animation to be more smooth and repond quickly <br>
+                - Fixed the handle doesn't peek properly in certain conditions <br>
+                - Added an option to disable selector animation and use old style highlighting <br>
                 2/28 - v1.2.6: - Added haptics to 3rd party keyboard. Need to enable Injection of MyrtleSupport to keyboard extensions of the app. (support of the injection into app's plugin may depend on the respective jailbreaks. I don't know if each jb will work or not, so don't ask me. Dopamine is confirmed to work, nathanlr and Bootstrap doesn't seem to support this.) <br>
                 - Properly close notification after opening notification in window <br>
                 - Apply dynamic dark/light change to the window even when opened forcefully on iOS15 <br>
