@@ -644,6 +644,42 @@ Name: K2geIsland
 Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/K2geIsland.png
 
+Package: com.m4fn3.k2geisland
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 14528
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.k2geisland_1.0.1_iphoneos-arm.deb
+Size: 5077994
+MD5sum: 83985a8c535c9f91581e10350b118157
+SHA1: 51969e5c62074bd1c09e787a813628ea64627835
+SHA256: e3c7ab7917523c715764ca2714fe3145916e92d92bca1e566f908a8f9a960077
+SHA512: cd0cae231f4fd95218d97cb09458eb2ee533272b84750c8ecc81055e68efff129ef0cd725438bd52c120c9e61e7961dfa2ffb74e25996b952c73eecff6c6bbd1
+Description: Ultimate customization for your Dynamic Island!
+Name: K2geIsland
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2geIsland.png
+
+Package: com.m4fn3.k2geisland
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 14480
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.k2geisland_1.0.1_iphoneos-arm64.deb
+Size: 5061992
+MD5sum: ebe24862828dfffd493986077cf1eeac
+SHA1: b4111370d5731c8eefed7ae78e7cb9c69c22550e
+SHA256: 7963c1cb63c9d0d9d914a5ec91ed5c5b1b7259265b9a67c969729287c812f717
+SHA512: e3977dd7a783995fd10a845b748186e8771f6f1d5115d817c256c81d8c319f3f04a5dc654ffd779c4e1e16534ef82059a08cda3e407433005164a39c29ba95a4
+Description: Ultimate customization for your Dynamic Island!
+Name: K2geIsland
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2geIsland.png
+
 Package: com.m4fn3.k2genmity
 Architecture: iphoneos-arm
 Version: 2.0.0
