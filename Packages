@@ -1790,3 +1790,38 @@ Description: Anti Jailbreak Detection for Mitsubishi UFJ
 Name: UFJ Patch
 Author: subdiox
 
+Package: com.yan.minibea
+Architecture: iphoneos-arm64
+Version: 0.2
+Section: Tweaks
+Maintainer: yan
+Installed-Size: 504
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.yan.bea
+Filename: ./debs/com.yan.minibea_0.2_iphoneos-arm64.deb
+Size: 79444
+MD5sum: 135d9172799f114b40a905373681baf6
+SHA1: 7d8e6c2b08b6f2bf43e8c8e38c6b4f4800840dec
+SHA256: 9ccba8d4d62e837c9461bac205f60d762b4007a44b635f384b97ee25ff4d614f
+SHA512: 8a2cb27466dd46bcded7e6c3cd1902e5dc1500cce95d618b31fd826c08dc7a0d315dedd31b3e2162c287900cbe23a9abfc642f3a578a0cedd81d30adb60d4591
+Description: A mini version of Bea maintaining basic features for latest version of BeReal.
+Name: MiniBea
+Author: yan
+
+Package: com.yan.minibea
+Architecture: iphoneos-arm64e
+Version: 0.2
+Section: Tweaks
+Maintainer: yan
+Installed-Size: 488
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.yan.bea
+Filename: ./debs/com.yan.minibea_0.2_iphoneos-arm64e.deb
+Size: 78454
+MD5sum: 321c23a5651e22badb7b3b166c81bf12
+SHA1: d2d6268fb88524ba38c9d3894da3b991716b3294
+SHA256: 8552f830a4cc670c355b2414ff8ef3a07a28ef1eb4a8e68f4dc33b63b81f06f5
+SHA512: cc71c9fcacbd7532b7e9ea6f523453fce61ac11c451564a85e33e5410d1dc46abe1bcadef295e68135902b45f5b7607cb161d8f17724925b330ec76c1686a60e
+Description: A mini version of Bea maintaining basic features for latest version of BeReal.
+Name: MiniBea
+Author: yan
