@@ -1756,3 +1756,37 @@ Description: Anti Jailbreak Detection for Mitsubishi UFJ
 Name: UFJ Patch
 Author: subdiox
 
+Package: com.m4fn3.mipip
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debs/com.m4fn3.mipip_1.0.1_iphoneos-arm64.deb
+Size: 7200
+MD5sum: 35cc58a53ceabc0ed5aa327b0d2d8a32
+SHA1: de425882ad6774e588851af98d916fa32202c8c7
+SHA256: ca0d26601d5d081d3b023fbc67701a1012c5dce911e9c19c2bb0ac3c0e59eb95
+SHA512: 56344396e936fc60d6362cab8d09e58dd8c62537bd8f38ee676260b9bc0dd232d9d55c4de3e190e6c921b3cb6c5958cda2997a69fc7c952b8264d32846d544a7
+Description: iOS17 pip tweak: hide from capture, show over multitasking app, free scale and snap, less interruptions
+Name: miPiP
+Author: mafu
+
+Package: com.m4fn3.mipip
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debs/com.m4fn3.mipip_1.0.1_iphoneos-arm64e.deb
+Size: 7126
+MD5sum: d4ef20a249d062f44d4a398b63048853
+SHA1: 3d13de6263d934316916197363ae1c1a505f7ac1
+SHA256: b908dfbc98c2c1e96da52cc161eec291a26c9c7d796646fabdd4904993fdd17b
+SHA512: 6dcb74defbcb736eb2808c007a489f30b75f389cdb6cda4faebbcd6edbff3baf4dee553647f2e9732622d077c16fc535b3d825c54a2344f6e3a6f2b1d6efb9b6
+Description: iOS17 pip tweak: hide from capture, show over multitasking app, free scale and snap, less interruptions
+Name: miPiP
+Author: mafu
+
