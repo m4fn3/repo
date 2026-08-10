@@ -817,6 +817,44 @@ Description: Enhance features of Enmity plugins by mafu
 Name: K2genmity
 Author: mafu
 
+Package: com.m4fn3.mikkyy
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: m4fn3
+Installed-Size: 1500
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.mikkyy_1.0.0_iphoneos-arm64.deb
+Size: 352272
+MD5sum: 335198cebd2bade95e3286f21fcde4a2
+SHA1: a3749e2e10e1082ea7aeed1de744ba71da25ed42
+SHA256: 7d6df812faf2b6bec1df4cb887270478493dcc953ec56905819b6463350c86d9
+SHA512: a78fec128532e0cf597b8df111a80b8404807aff4819065ebbf07881cbaf9b011038832a1034b54eb843f76989cb5b710fe3441b4405d78f6df12d7a6190b4fa
+Description: Modern, lightweight theme engine for iOS 16 through 26. Applies icon themes to the Home Screen, Dock, App Switcher, Share Sheet, Settings, folder previews, and live Calendar and Clock icons.
+Name: Mikkyy
+Author: m4fn3
+Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/Mikkyy.json
+
+Package: com.m4fn3.mikkyy
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: m4fn3
+Installed-Size: 1500
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.mikkyy_1.0.0_iphoneos-arm64e.deb
+Size: 360154
+MD5sum: d47d1631699912783020dbf733aece4b
+SHA1: 605595a919bae969c81339bcd2d61d06c529d94e
+SHA256: ed9258bdbfc71b68b51c95584fe9a2ab0acf5f7dbe1b007fe297fcb7e30b38d1
+SHA512: 2ac10dd2e3bb87d6b016a4607381be0256f797c43d413d9702a8b59a79057cf1ba7a4cfefd313e77ab9873f840096815ff254679d4a2447049bb82a3d989913d
+Description: Modern, lightweight theme engine for iOS 16 through 26. Applies icon themes to the Home Screen, Dock, App Switcher, Share Sheet, Settings, folder previews, and live Calendar and Clock icons.
+Name: Mikkyy
+Author: m4fn3
+Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/Mikkyy.json
+
 Package: com.m4fn3.mipip
 Architecture: iphoneos-arm64
 Version: 1.0.0
