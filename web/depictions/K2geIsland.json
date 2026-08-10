@@ -1,0 +1,101 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#FF9B76",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## Ultimate customization for Dynamic Island\nBring notifications into Dynamic Island, then customize its colors, opacity, position, size, content, and behavior.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{160, 315}",
+          "screenshots": [
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/K2geIsland_preview1.jpg",
+              "accessibilityText": "K2geIsland's main settings for color, size, content, notifications, and app controls"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/K2geIsland_preview7.jpg",
+              "accessibilityText": "A notification in Dynamic Island with gesture and appearance settings"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/K2geIsland_preview2.jpg",
+              "accessibilityText": "Dynamic Island color and opacity settings"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/K2geIsland_preview3.jpg",
+              "accessibilityText": "Dynamic Island position and size settings"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/K2geIsland_preview4.jpg",
+              "accessibilityText": "Dynamic Island activity content appearance settings"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Highlights",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Display notifications with app or contact imagery, message content, and supported attachments\n- Configure tap, long-press, and swipe actions\n- Choose static, dynamic, random, or per-activity colors\n- Adjust opacity, position, size, outline, glow, spacing, and content appearance\n- Allow or block individual apps and activity types\n\nFor full details and purchase information, please visit the [official website](https://m4fn3.github.io/repo/web/K2geIsland.html).",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.1"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "iOS 16 - 17"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🌐 Full details on the website",
+          "action": "https://m4fn3.github.io/repo/web/K2geIsland.html",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🛒 Purchase K2geIsland",
+          "action": "https://ko-fi.com/s/4f5c0a29c0",
+          "openExternal": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 1.0.1 - 2026-06-10\n- Added notifications inside Dynamic Island.\n- Added configurable notification gestures, appearance, duration, content, and haptic feedback.\n\n## 1.0.0 - 2024-08-15\n- Initial release with Dynamic Island color, size, position, content, and activity customization.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🌐 Full changelog on the website",
+          "action": "https://m4fn3.github.io/repo/web/K2geIsland.html",
+          "openExternal": true
+        }
+      ]
+    }
+  ]
+}

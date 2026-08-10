@@ -1,0 +1,106 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#34C759",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## Enhance LINE features\nK2ge3Air is a tweak that adds convenient features not available in the official LINE app.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/K2ge3Air_preview0.jpg",
+              "accessibilityText": "A LINE conversation showing unsent message retention and the Read Users action"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/K2ge3Air_preview1.jpg",
+              "accessibilityText": "K2ge3Air's main settings"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/K2ge3Air_preview2.jpg",
+              "accessibilityText": "Read receipt and read-user settings"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/K2ge3Air_preview4.jpg",
+              "accessibilityText": "LINE theme management settings"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/K2ge3Air_preview5.jpg",
+              "accessibilityText": "Local display-name settings for friends, groups, and open chats"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Features",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- iPad Login\n- Display Read Users\n- Hide Read Status\n- Disable unsend\n- Manage Themes\n- Remove Ads\n- Change Display Names\n- Manage Tabs\n- Add Confirmation Prompts\n\nFor full details and purchase information, please visit the [official website](https://m4fn3.github.io/repo/web/K2ge3Air.html).",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.7"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "LINE v14.x / v15.x"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Tested LINE versions",
+          "text": "14.6.3 / 15.7.2 / 15.20.4"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🌐 Full details on the website",
+          "action": "https://m4fn3.github.io/repo/web/K2ge3Air.html",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🛒 Purchase K2ge3Air",
+          "action": "https://ko-fi.com/s/bfcd749cfc",
+          "openExternal": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 1.0.7 - 2025-12-26\n- Fixed the K2ge3Air settings view crashing on some devices.\n\n## 1.0.6 - 2025-12-24\n- Added support for LINE 14.x and iOS 15.\n- Improved Send Confirmation wording.\n\n## 1.0.5 - 2025-12-22\n- Removed the fixed LINE-version dependency.\n- Fixed multiple features on LINE 15.20.4 and a Send Confirmation crash on iOS 26.\n\n## 1.0.4 - 2025-10-22\n- Added sticker copying and MID copying.\n- Fixed issues with the message long-press menu.\n\n## 1.0.3 - 2025-10-10\n- Added support for retaining messages unsent in the background.\n- Fixed display names in OpenChat and other issues.\n\n## 1.0.2 - 2025-10-07\n- Added sideloading support and improved iPad Login.\n\n## 1.0.1 - 2025-10-06\n- Fixed license saving and the missing settings button during iPad Login.\n- Fixed Read Users visibility and Send Confirmation crashes in some environments.\n\n## 1.0.0 - 2025-10-05\n- Initial release.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🌐 Full changelog on the website",
+          "action": "https://m4fn3.github.io/repo/web/K2ge3Air.html",
+          "openExternal": true
+        }
+      ]
+    }
+  ]
+}

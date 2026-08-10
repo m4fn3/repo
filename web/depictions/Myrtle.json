@@ -1,0 +1,116 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#40BFB5",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## Multitasking from one edge gesture\nSwitch apps, open floating windows, and run system actions without leaving what is already on screen.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{160, 315}",
+          "screenshots": [
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/Myrtle_preview3.jpg",
+              "accessibilityText": "A floating app window beside the alphabetical app launcher and keyboard"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/Myrtle_preview1.jpg",
+              "accessibilityText": "Myrtle's semicircular edge selector with apps and system actions"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/Myrtle_preview4.jpg",
+              "accessibilityText": "A pinned video window above the alphabetical app launcher"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/Myrtle_preview2.jpg",
+              "accessibilityText": "A windowed social app opened over another app"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/Myrtle_preview5.jpg",
+              "accessibilityText": "Floating windows and keyboard support in landscape orientation"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Highlights",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Lightweight One-window mode, plus optional Multi-window mode\n- Favorite apps, recent apps, alphabetical launcher, Shortcuts, URLs, and system actions\n- Snap, pin, resize, rotate, and switch apps inside a floating window\n- Keyboard support and a compact 16:9 layout\n- Open notifications, universal links, shared files, and AirDrop destinations in a window\n\nFor full details and purchase information, please visit the [official website](https://m4fn3.github.io/repo/web/Myrtle.html).",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.4.1"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "iOS 15 - 17"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🌐 Full details on the website",
+          "action": "https://m4fn3.github.io/repo/web/Myrtle.html",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🛒 Purchase Myrtle",
+          "action": "https://ko-fi.com/s/48b067ed20",
+          "openExternal": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 1.4.1 - 2026-07-30\n- Added Quick Reverse center-button style.\n- Added an option to keep windows inside the screen while moving them.\n- Fixed snapping sometimes remaining disabled until respring.\n\n## 1.4.0 - 2026-05-09\n- Added an alphabetical app launcher with vertical letter selection and horizontal app selection.\n- Added configurable tap and long-press actions for the edge handle.\n\n## 1.3.7 - 2026-05-02\n- Added a cellular data toggle action.\n- Improved frontmost-app detection and transitions involving normal, fullscreen, and pinned windows.\n\n## 1.3.6 - 2026-04-18\n- Fixed the volume slider resetting after respring.\n- Fixed snapping, cold-start, and reload regressions introduced with the new window animations.\n\n## 1.3.5 - 2026-04-11\n- Fixed a random SpringBoard crash when opening apps.\n- Fixed the animation switch and snapping during splash animations.\n\n## 1.3.4 - 2026-04-11\n- Added customizable selector icon sizes.\n- Added brightness and volume slider actions.\n- Added an action for opening Snapper 3 history and improved window animations.\n\n## 1.3.3 - 2026-04-05\n- Added configurable ring radius, ring spacing, and uniform icon sizing.\n- Added options to keep windows through rotation and preserve pinned windows after unlock.\n\n## 1.3.2 - 2026-04-03\n- Added independent pinning in One-window mode, allowing up to two windows on screen.\n- Improved launch animations and fixed keyboard, lock-screen URL, and Control Center issues.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 1.3.1 - 2026-03-12\n- Added fullscreen and clipboard translation actions for HammerIt and TransLux.\n- Added clipboard-history actions for CopyLog, Kayoko, and CopyVault.\n- Improved window animations and fixed blank-screen and maximum-size issues.\n\n## 1.3.0 - 2026-03-07\n- Added keyboard support when the app or device uses landscape orientation. Some cases require MyrtleSupport injection.\n- Expanded third-party keyboard haptics and fixed keyboard flicker while switching apps.\n- Improved selector animation and handle previews, with an option to use legacy highlighting.\n\n## 1.2.6 - 2026-02-28\n- Added haptics for supported third-party keyboards through MyrtleSupport injection.\n- Improved notification closing, iOS 15 theme changes, and portrait/landscape app switching.\n- Added an external API for other tweaks to open Myrtle windows.\n\n## 1.2.5 - 2026-02-25\n- Improved dynamic resizing and launch-time window positioning.\n- Updated the universal-link blacklist to block transitions in both directions.\n- Added live theme adaptation while windows are closed and a Return-key option for the app launcher.\n\n## 1.2.4 - 2026-02-24\n- Added native Shortcuts support and customizable action glyphs. Existing Shortcuts must be removed and added again.\n- Added higher frame-rate support and exclusion areas for tap-outside actions.\n- Fixed launch crashes and handle placement around the keyboard and Lock Screen.\n\n## 1.2.3 - 2026-02-22\n- Fixed v1.2.2 regressions involving landscape cold starts, black screens, and keyboard avoidance.\n- Excluded the call interface from recent apps and improved fullscreen/window orientation switching.\n\n## 1.2.2 - 2026-02-22\n- Added proper app launch animations and a fourth selector ring.\n- Added a reload-window action and more tap-outside choices.\n- Fixed cold-start snapping, resizing, keyboard avoidance, and iOS 15 landscape behavior.\n\n## 1.2.1 - 2026-02-21\n- Fixed a crash when tap-outside actions were enabled without gestures on both sides.\n\n## 1.2.0 - 2026-02-21\n- Added configurable actions for tapping outside a window: do nothing, close, or snap.\n- Improved landscape adaptation, safe areas, handle positioning, and app-launcher keyboard avoidance.\n- Added an option to hide the handle on the Lock Screen.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 1.1.7 - 2026-02-20\n- Fixed landscape keyboard overlap, iOS 15 rotation, and a universal-link auto-close crash.\n- Fixed screen-capture hiding behavior and added support for cold-starting landscape apps.\n\n## 1.1.6 - 2026-02-19\n- Added an option to remember window position and size in supported layouts.\n- Updated swipe-up behavior to restore a moved window to its default snapped position first.\n\n## 1.1.5 - 2026-02-16\n- Fixed layout issues when opening a 16:9 windowed app in fullscreen.\n- Fixed a small gap at the default position after swiping down.\n\n## 1.1.4 - 2026-02-15\n- Added animations when opening the selector, selecting apps, and triggering center-hold.\n- Fixed some apps being interrupted while switching the fullscreen app.\n\n## 1.1.3 - 2026-02-14\n- Improved keyboard responsiveness and recent-app tracking for windowed apps.\n- Improved app-launcher keyboard opening, Return-key selection, and result sorting.\n- Reorganized preference items.\n\n## 1.1.2 - 2026-02-13\n- Added adaptive keyboard height for 16:9 and snapped windows.\n- Added Smart Notification Opening.\n- Improved selector visibility and added Rotation Lock, Dark/Light Mode, Wi-Fi, and Location Services actions.\n\n## 1.1.1 - 2026-02-12\n- Added actions to swap fullscreen/windowed apps and terminate background or Now Playing apps.\n- Improved Lock Screen, notification, Snapper-delay, and toast behavior.\n\n## 1.1.0 - 2026-02-10\n- Added optional sound feedback.\n- Refreshed app-library design and colors.\n- Adjusted iOS 15 support, including partial 16:9 support.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 1.0.7 - 2026-02-07\n- Improved light-mode appearance, edge-swipe recognition, and camera behavior in windowed apps.\n- Added haptic/toast controls, live toggle states in the selector, and accidental-fast-swipe protection.\n\n## 1.0.6 - 2026-02-06\n- Fixed 16:9 support on iOS 15.\n- Fixed notifications and universal-link integration on iOS 15 and iOS 16.0.x.\n\n## 1.0.5 - 2026-02-05\n- Added optional gestures on both screen edges and automatic handle-side adaptation.\n- Added controls for handle movement, window corner radius, and selector distance.\n- Added delayed screenshots when capture hiding is disabled.\n\n## 1.0.4 - 2026-02-04\n- Added automatic handle hiding after inactivity.\n- Added configurable handle height, gesture area, and transparency.\n\n## 1.0.3 - 2026-02-03\n- Improved window-opening behavior, authorization handling, corner rounding, and fullscreen transitions.\n- Added direct window movement and resizing.\n\n## 1.0.2 - 2026-02-01\n- Added VPN, flashlight, and respring actions.\n- Added native RootHide support and improved universal-link and iOS 17 notification handling.\n- Improved app cleanup and automatic window closing.\n\n## 1.0.1 - 2026-01-31\n- Improved performance and reduced memory usage.\n\n## 1.0.0 - 2026-01-30\n- Initial release.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🌐 Full changelog on the website",
+          "action": "https://m4fn3.github.io/repo/web/Myrtle.html",
+          "openExternal": true
+        }
+      ]
+    }
+  ]
+}

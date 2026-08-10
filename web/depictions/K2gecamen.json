@@ -1,0 +1,89 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#16A4C5",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## Capture moments anytime in the background\nTake photos, record video, or record audio in the background. Start and stop capture from hardware buttons or Control Center.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{160, 347}",
+          "screenshots": [
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/K2gecamen_preview1.jpg",
+              "accessibilityText": "Camera, quality, frame rate, and capture trigger settings"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/K2gecamen_preview2.jpg",
+              "accessibilityText": "Background recording, save location, audio, and haptic settings"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Highlights",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Capture from the front, rear, 0.5x Ultra Wide, or 1x camera\n- Configure video quality, frame rate, save location, and filename format\n- Trigger each action from Control Center or configurable volume and power-button gestures\n- Keep music or a call playing while recording\n- Optional haptic confirmation and lock-screen safeguards\n\n*Use background capture only where permitted and obtain any required consent.*\n\nFor full details and purchase information, please visit the [official website](https://m4fn3.github.io/repo/web/K2gecamen.html).",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.1.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "iOS 14 - 17"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🌐 Full details on the website",
+          "action": "https://m4fn3.github.io/repo/web/K2gecamen.html",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🛒 Purchase K2gecamen",
+          "action": "https://ko-fi.com/s/cf224c3069",
+          "openExternal": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 1.1.0 - 2026-06-14\n- Added background audio and video recording without interrupting music or calls. This is enabled by default.\n- Fixed blue color casts in photos and the first seconds of videos.\n- Localized settings into English, Japanese, and Simplified Chinese and refreshed the settings UI.\n- Added roothide support and fixed the Volume Up + Down action.\n\n## 1.0.6 - 2026-04-27\n- Updated licensing and activation internals.\n\n## 1.0.5 - 2025-12-19\n- Added long-press Power as a capture action.\n- Fixed screenshots incorrectly triggering double-press actions.\n- Improved capture status handling and haptic feedback for starts, stops, failures, and interruptions.\n\n## 1.0.4 - 2025-12-12\n- Added iOS 17 support on NathanLR.\n\n## 1.0.3 - 2024-06-11\n- Added an option to keep Apple's Camera app recording in the background.\n- Added options to ignore actions while other audio is playing and improved lock-screen safeguards.\n\n## 1.0.2 - 2024-06-06\n- Added haptic feedback.\n- Disabled the photo shutter sound and fixed capture-action selection issues.\n\n## 1.0.1 - 2024-05-28\n- Added frame-rate settings, more activation methods, lock-screen safeguards, and 0.5x Ultra Wide support.\n- Improved photo capture.\n\n## 1.0.0 - 2024-04-06\n- Initial public release.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🌐 Full changelog on the website",
+          "action": "https://m4fn3.github.io/repo/web/K2gecamen.html",
+          "openExternal": true
+        }
+      ]
+    }
+  ]
+}
