@@ -1,0 +1,73 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#F59B3D",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## Modern, lightweight theme engine for iOS 16–26\nBring icon themes to modern iOS releases.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/Mikkyy_preview1.jpg",
+              "accessibilityText": "A themed Home Screen with custom icons, widgets, live Calendar and Clock icons, and Dock icons"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/Mikkyy_preview2.jpg",
+              "accessibilityText": "Themed app icons displayed in the Share Sheet, with themed Settings icons behind it"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Highlights",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Themes app icons on the Home Screen, Dock, App Switcher, Share Sheet, Settings, and folder previews\n- Preserves themed live Calendar dates and Clock faces and hands\n- Uses existing WinterBoard and SnowBoard `.theme` packages with no conversion\n- Includes a master switch, installed-theme picker, and quick access to the theme folder\n- Available for free\n\nPlease [follow me on Twitter](https://twitter.com/m4fn3) for updates. If you like Mikkyy, please [consider donating on Ko-fi](https://ko-fi.com/m4fn3).\n\n### Other tweaks\n**[Myrtle](https://m4fn3.github.io/repo/web/Myrtle.html)**  \nUltimate multitasking from one edge gesture\n\n**[K2gecamen](https://m4fn3.github.io/repo/web/K2gecamen.html)**  \nCapture moments anytime in the background\n\n**[K2geIsland](https://m4fn3.github.io/repo/web/K2geIsland.html)**  \nUltimate customization for Dynamic Island",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Price",
+          "text": "Free"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "iOS 16 - 26"
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 1.0.0 - 2026-08-10\n- Initial release.\n- Themes app icons on the Home Screen, Dock, App Switcher, Share Sheet, Settings, and folder previews.\n- Preserves themed live Calendar dates and Clock faces and hands.\n- Supports existing WinterBoard and SnowBoard theme layouts.\n- Includes a master switch, installed-theme picker, theme-folder shortcut, and respring action.\n- Supports iOS 16 through 26 on rootless and RootHide jailbreaks.\n- Applies continuous-corner rounding to opaque theme artwork.",
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}
