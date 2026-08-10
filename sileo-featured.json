@@ -1,0 +1,31 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+      "url": "https://m4fn3.github.io/repo/web/images/banners/K2gecamen.png",
+      "title": "K2gecamen",
+      "package": "com.m4fn3.k2gecamen",
+      "hideShadow": false
+    },
+    {
+      "url": "https://m4fn3.github.io/repo/web/images/banners/Myrtle.png",
+      "title": "Myrtle",
+      "package": "com.m4fn3.myrtle",
+      "hideShadow": false
+    },
+    {
+      "url": "https://m4fn3.github.io/repo/web/images/banners/K2geIsland.png",
+      "title": "K2geIsland",
+      "package": "com.m4fn3.k2geisland",
+      "hideShadow": false
+    },
+    {
+      "url": "https://m4fn3.github.io/repo/web/images/banners/K2ge3Air.png",
+      "title": "K2ge3Air",
+      "package": "com.m4fn3.k2ge3air",
+      "hideShadow": false
+    }
+  ]
+}
