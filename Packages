@@ -15,6 +15,40 @@ Description: Fix badge color tweaks on iOS 17 (or 16)
 Name: BadgeColorFix17
 Author: mafu
 
+Package: com.m4fn3.bajji
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.bajji_1.0.0_iphoneos-arm64.deb
+Size: 9294
+MD5sum: 93b9267abc7f7eb4a1ca3def79542362
+SHA1: ef6a078799f7d1d02cdf0afe530b609d9af69f47
+SHA256: 4e20876cef5167b74d583227b7cdfbbe5873bd270eb3bd0a7625b5be5ad136b5
+SHA512: a2cdb2c27f75d6850f7a9770b9f82dc936026b38f65faf529c9a4ac6fe0da81f83fe9cc356d3b1f6908b9311614940101d26d6eca91e0911074f610f34b07629
+Description: Badge coloring from the app icon, for iOS 16 through 26.
+Name: Bajji
+Author: mafu
+
+Package: com.m4fn3.bajji
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.bajji_1.0.0_iphoneos-arm64e.deb
+Size: 9248
+MD5sum: f0baf1801a6dc1ffeb5aa234d876ecd2
+SHA1: b399aae380d23db8e3b01cc22a3d1d9f727a72ca
+SHA256: 3449ae849338a6a66f08ee7609c6fce62b25e31f2a7f7b48f478c498e217b110
+SHA512: 37e2e8f2ed9c136a4eae22ca54c1f80b511548d0e307a75f60bab72289128b226b38a50f0f74fa0647e0351e74a1487e6537eadc78f34a61217dd94616d4b86c
+Description: Badge coloring from the app icon, for iOS 16 through 26.
+Name: Bajji
+Author: mafu
+
 Package: com.m4fn3.gommirativ
 Architecture: iphoneos-arm
 Version: 1.0.0
