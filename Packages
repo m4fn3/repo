@@ -1913,6 +1913,76 @@ Name: Myrtle
 Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
 
+Package: com.noisyflake.velvet2
+Architecture: iphoneos-arm64
+Version: 2.2.0
+Section: Tweaks
+Maintainer: m4fn3
+Installed-Size: 628
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.noisyflake.velvet2_2.2.0_iphoneos-arm64.deb
+Size: 99364
+MD5sum: aa0c3250ee82e51e3273028da944c489
+SHA1: 5c4b5cbc6c58bba04cf7e426e83d18e9c452a1d2
+SHA256: 615e34ec33424bbc4565bc40b9444423b95d6837681002630f912b6bea5dfde5
+SHA512: 0aee322de751a6bf73745f555a6bafbf267d9555db0c6370fda7961faf4877d9355f19abaab4e631c695b279d5e89725bf077ccab720a987f9b49437f5c3b934
+Description: A fully customizable notification experience
+Name: Velvet 2
+Author: NoisyFlake
+Conflicts: com.initwithframe.velvet
+
+Package: com.noisyflake.velvet2
+Architecture: iphoneos-arm64e
+Version: 2.2.0
+Section: Tweaks
+Maintainer: m4fn3
+Installed-Size: 628
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.noisyflake.velvet2_2.2.0_iphoneos-arm64e.deb
+Size: 98614
+MD5sum: 5964b32314d3cfba957c5cbc69abbc85
+SHA1: ba4a6409c605fcb3c590599f1b093e3515da10d1
+SHA256: d0267716251fd39e1f0b282c023fd9f8617b96ab51c59ca24c04f9930b1184d1
+SHA512: 3e97c5a529adda34ee99365cae75d4b7d56e55ba7887859260af11057679a9969abdf7a49d6e87b6b3b9b79a63d79ff0dcfa565219738660f3099d979603037e
+Description: A fully customizable notification experience
+Name: Velvet 2
+Author: NoisyFlake
+Conflicts: com.initwithframe.velvet
+
+Package: com.rpgfarm.a-font
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Section: Tweaks
+Maintainer: m4fn3
+Installed-Size: 2476
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.rpgfarm.a-font_2.0.0_iphoneos-arm64.deb
+Size: 496126
+MD5sum: f48b36195076a82ce26cdead8acc8b56
+SHA1: 21ce9c1f250a45f9aec1042a64a1ed1334f6549f
+SHA256: 1d98a968c19c02e2388082df769319119a5179e1c60a36e9d09ed5a175b8f64c
+SHA512: a78a33d1f76eacbea19378511d62a1fd444a44d35038a4608d92b5d140033924533dc322eb0c23f0b803ed3e1e01d5763c2375c72d81a2b7019a6e08bd613687
+Description: Change your font!
+Name: A-Font
+Author: Baw Appie <pp121324@gmail.com>
+
+Package: com.rpgfarm.a-font
+Architecture: iphoneos-arm64e
+Version: 2.0.0
+Section: Tweaks
+Maintainer: m4fn3
+Installed-Size: 2444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.rpgfarm.a-font_2.0.0_iphoneos-arm64e.deb
+Size: 494370
+MD5sum: 7d9d7928dab733ad41b720fbffccde89
+SHA1: 551d96191b70a9b07c532075be9e05f722066ee1
+SHA256: f16a93f4e60c1dd08515dab36c0d1b1655cd551254198f4def375d74ce6bc8fc
+SHA512: fbb447ba54deeeffef4ba2e886ad7dee6b2128a069535fe142d299fdd99f8e2f93e5e0bc1d785d5f2d676795f70e3f1b27326d5e00189e562ae863af466807d1
+Description: Change your font!
+Name: A-Font
+Author: Baw Appie <pp121324@gmail.com>
+
 Package: com.strejda603.documentsbyreaddlepremium
 Architecture: iphoneos-arm64
 Version: 1.0.1
