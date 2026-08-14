@@ -893,6 +893,44 @@ Author: m4fn3
 Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
 SileoDepiction: https://m4fn3.github.io/repo/web/depictions/Mikkyy.json
 
+Package: com.m4fn3.mikkyy
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: m4fn3
+Installed-Size: 1812
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.mikkyy_1.0.2_iphoneos-arm64.deb
+Size: 426254
+MD5sum: 7a5eda0273c9bcb3a27b7073cea279c4
+SHA1: a5b42ec5696e02f8e8546faf96ddf75e2668a52b
+SHA256: 2067bc1787a26c974c95a08d896c616213cfd4fa399f24fc0c47fdd9f22e9b37
+SHA512: 5a166c29f9813371c7b7a600c79e28c6c782a9bdd51d7daa71d6be20b5dd71b484c12855c7d7970bfc1b8e4e55a7ad760a119ea860c98e6b347f92c65de84dad
+Description: Modern, lightweight theme engine for iOS 16 through 26. Applies icon themes to the Home Screen, Dock, App Switcher, Share Sheet, Settings, folder previews, and live Calendar and Clock icons.
+Name: Mikkyy
+Author: m4fn3
+Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/Mikkyy.json
+
+Package: com.m4fn3.mikkyy
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: m4fn3
+Installed-Size: 1796
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.mikkyy_1.0.2_iphoneos-arm64e.deb
+Size: 429752
+MD5sum: 978e2219b749d7869ee6880c26165ce9
+SHA1: ba633e6525598ff239b5b8b19f6e114f81897c49
+SHA256: a43fa5e48097b2d9123edf91672c451f561705d33bf5273967d9618ff6895ef0
+SHA512: 4c40f8eb3be1bf560391fd501ed4a758d4281dab1fe12eb0f92a3ce96899a2c028590765fb0b620a177094e129851f5365af9a7a07da933ec162a69eeba53b24
+Description: Modern, lightweight theme engine for iOS 16 through 26. Applies icon themes to the Home Screen, Dock, App Switcher, Share Sheet, Settings, folder previews, and live Calendar and Clock icons.
+Name: Mikkyy
+Author: m4fn3
+Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/Mikkyy.json
+
 Package: com.m4fn3.mipip
 Architecture: iphoneos-arm64
 Version: 1.0.0
