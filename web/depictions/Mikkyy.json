@@ -44,7 +44,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.0.1"
+          "text": "1.0.2"
         },
         {
           "class": "DepictionTableTextView",
@@ -64,7 +64,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## 1.0.1 - 2026-08-10\n- Fixed some apps' icons showing as hard squares instead of getting rounded corners.\n- Themes are now recognized even when the folder name does not end in `.theme`.\n\n## 1.0.0 - 2026-08-10\n- Initial release.\n- Themes app icons on the Home Screen, Dock, App Switcher, Share Sheet, Settings, and folder previews.\n- Preserves themed live Calendar dates and Clock faces and hands.\n- Supports existing WinterBoard and SnowBoard theme layouts.\n- Includes a master switch, installed-theme picker, theme-folder shortcut, and respring action.\n- Supports iOS 16 through 26 on rootless and RootHide jailbreaks.\n- Applies continuous-corner rounding to opaque theme artwork.",
+          "markdown": "## 1.0.2 - 2026-08-14\n- Performance optimization.\n\n## 1.0.1 - 2026-08-10\n- Fixed some apps' icons showing as hard squares instead of getting rounded corners.\n- Themes are now recognized even when the folder name does not end in `.theme`.\n\n## 1.0.0 - 2026-08-10\n- Initial release.\n- Themes app icons on the Home Screen, Dock, App Switcher, Share Sheet, Settings, and folder previews.\n- Preserves themed live Calendar dates and Clock faces and hands.\n- Supports existing WinterBoard and SnowBoard theme layouts.\n- Includes a master switch, installed-theme picker, theme-folder shortcut, and respring action.\n- Supports iOS 16 through 26 on rootless and RootHide jailbreaks.\n- Applies continuous-corner rounding to opaque theme artwork.",
           "useSpacing": true
         }
       ]
