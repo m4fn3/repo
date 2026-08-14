@@ -2023,34 +2023,34 @@ Author: NoisyFlake
 
 Package: com.rpgfarm.a-font
 Architecture: iphoneos-arm64
-Version: 2.0.0
+Version: 2.0.1
 Section: Tweaks
 Maintainer: m4fn3
 Installed-Size: 2476
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.rpgfarm.a-font_2.0.0_iphoneos-arm64.deb
-Size: 496126
-MD5sum: f48b36195076a82ce26cdead8acc8b56
-SHA1: 21ce9c1f250a45f9aec1042a64a1ed1334f6549f
-SHA256: 1d98a968c19c02e2388082df769319119a5179e1c60a36e9d09ed5a175b8f64c
-SHA512: a78a33d1f76eacbea19378511d62a1fd444a44d35038a4608d92b5d140033924533dc322eb0c23f0b803ed3e1e01d5763c2375c72d81a2b7019a6e08bd613687
+Filename: ./debs/com.rpgfarm.a-font_2.0.1_iphoneos-arm64.deb
+Size: 495080
+MD5sum: e33fdef67ef81e5527166c27e56cb133
+SHA1: 2be05ca4ea1e2ba7d949cbd8ea265e9ae1aff260
+SHA256: 8e687ae5e6c9f768171e35b293781c32cccab9a1489abfaaa524e20439ed07f9
+SHA512: 1d0ae9eae19f7a87988dd8921c1065bc5abdfe397d003ed8defd6a15b82180a96823b6b3a58a9055cbd442c5ccd02278382b5669eab42e55445995f845a64e23
 Description: Change your font!
 Name: A-Font
 Author: Baw Appie <pp121324@gmail.com>
 
 Package: com.rpgfarm.a-font
 Architecture: iphoneos-arm64e
-Version: 2.0.0
+Version: 2.0.1
 Section: Tweaks
 Maintainer: m4fn3
 Installed-Size: 2444
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.rpgfarm.a-font_2.0.0_iphoneos-arm64e.deb
-Size: 494370
-MD5sum: 7d9d7928dab733ad41b720fbffccde89
-SHA1: 551d96191b70a9b07c532075be9e05f722066ee1
-SHA256: f16a93f4e60c1dd08515dab36c0d1b1655cd551254198f4def375d74ce6bc8fc
-SHA512: fbb447ba54deeeffef4ba2e886ad7dee6b2128a069535fe142d299fdd99f8e2f93e5e0bc1d785d5f2d676795f70e3f1b27326d5e00189e562ae863af466807d1
+Filename: ./debs/com.rpgfarm.a-font_2.0.1_iphoneos-arm64e.deb
+Size: 494044
+MD5sum: 63eade67b0c6cc26ec4fb7841a242155
+SHA1: 92a98016bfa4b0ba61133eb98df624b5d9a05c65
+SHA256: 7532ce3e009765af0726e750862d84d9450cf4bbb2b71d0c416e84667cd1a04c
+SHA512: 0f25b2094f41c3f7ff77fe28d30ea798198446132189340b925e6959353e1f2b95bb9ff69520ac54b52d6cc5038c42ea372a8823b83245bd294a4c2db9fbd877
 Description: Change your font!
 Name: A-Font
 Author: Baw Appie <pp121324@gmail.com>
