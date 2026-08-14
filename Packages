@@ -1016,6 +1016,40 @@ Description: iOS17 pip tweak: hide from capture, show over multitasking app, fre
 Name: miPiP
 Author: mafu
 
+Package: com.m4fn3.mipip
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debs/com.m4fn3.mipip_1.0.2_iphoneos-arm64.deb
+Size: 7944
+MD5sum: b68bc14ebd86405c679b4c0ce126c787
+SHA1: 9a0a7ce89f2ad06496cb3af18a87bc485fc8dad2
+SHA256: 5afa473918d632a263da87de21c3ca40d1a9bd0aa5b84327c4fe31d5267ec0d2
+SHA512: 37805667811dbefe9d9e18f5b07c26864e7a8a3e19ec31ec7b06cc49a6723d81ad674c102c0f943d4d9a42d2d13d3979869c0f5f0d43a9a2cd8535a6e170a6f2
+Description: iOS17-26 pip tweak: hide from capture, show over multitasking app, free scale and snap, less interruptions
+Name: miPiP
+Author: mafu
+
+Package: com.m4fn3.mipip
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debs/com.m4fn3.mipip_1.0.2_iphoneos-arm64e.deb
+Size: 7892
+MD5sum: ccc3f7124bd70b2385ac981991ff175a
+SHA1: 1ced34900d070a6c5d8cabbf065ecf35bca24807
+SHA256: 41c0a7035f56bbfc3451865cabea42d2a0488eb5729e43d1afe46a3da1c70ea0
+SHA512: 41e6082ed3fc5acf17c2e6a58072cb2be8899f42f6ac22ca420cb1846135de2e9bae05eb1d45e4c154f278cf02ab9463b782ee977d90b0d33a2457208ae464a1
+Description: iOS17-26 pip tweak: hide from capture, show over multitasking app, free scale and snap, less interruptions
+Name: miPiP
+Author: mafu
+
 Package: com.m4fn3.myrtle
 SileoDepiction: https://m4fn3.github.io/repo/web/depictions/Myrtle.json
 Architecture: iphoneos-arm
