@@ -1920,6 +1920,7 @@ Section: Tweaks
 Maintainer: m4fn3
 Installed-Size: 628
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
 Filename: ./debs/com.noisyflake.velvet2_2.2.0_iphoneos-arm64.deb
 Size: 99364
 MD5sum: aa0c3250ee82e51e3273028da944c489
@@ -1929,7 +1930,6 @@ SHA512: 0aee322de751a6bf73745f555a6bafbf267d9555db0c6370fda7961faf4877d9355f19ab
 Description: A fully customizable notification experience
 Name: Velvet 2
 Author: NoisyFlake
-Conflicts: com.initwithframe.velvet
 
 Package: com.noisyflake.velvet2
 Architecture: iphoneos-arm64e
@@ -1938,6 +1938,7 @@ Section: Tweaks
 Maintainer: m4fn3
 Installed-Size: 628
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet
 Filename: ./debs/com.noisyflake.velvet2_2.2.0_iphoneos-arm64e.deb
 Size: 98614
 MD5sum: 5964b32314d3cfba957c5cbc69abbc85
@@ -1947,7 +1948,6 @@ SHA512: 3e97c5a529adda34ee99365cae75d4b7d56e55ba7887859260af11057679a9969abdf7a4
 Description: A fully customizable notification experience
 Name: Velvet 2
 Author: NoisyFlake
-Conflicts: com.initwithframe.velvet
 
 Package: com.rpgfarm.a-font
 Architecture: iphoneos-arm64
