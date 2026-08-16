@@ -2057,6 +2057,40 @@ Name: Myrtle
 Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
 
+Package: com.m4fn3.yahootransitplus
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.yahootransitplus_1.0.0_iphoneos-arm64.deb
+Size: 3486
+MD5sum: 27091137bf71da3a36412bf6266711e3
+SHA1: cde0a88eea8b9e593990d439ec674c2487283ff5
+SHA256: 9bb66fdef1aa5e0fb6030fcdfe2ae6911232ca3171fdf49240dc0d6a3758764c
+SHA512: 8c299c1a7e34e09cfdc7517a93e64f4059c856b87cacd53b3790cc2c008bef4c15c0d373d1f63a3ea64745627d41991aeb062991120754039e824942c283f0b5
+Description: Unlock 乗換案内プラス features of Yahoo!乗換案内 app. Tested on 9.x.x
+Name: YahooTransitPlus
+Author: mafu
+
+Package: com.m4fn3.yahootransitplus
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.yahootransitplus_1.0.0_iphoneos-arm64e.deb
+Size: 3426
+MD5sum: a9f60719520304e855f2c732649d6c14
+SHA1: d881603fbf3658ab4fce6e5d6c9e3683ecffe38c
+SHA256: 0095e5dfcb22285786eb9f0625f4b9eee5a5aa162259d87effe8b0b05e91f052
+SHA512: 7ddfea228e8ba21c0960b2e60e0908764e2ceb2b85a808b07b14ed9eb3589732faaebf365c1726cab19b54c7cf3bf7d02cc47ae498e1a49eb9ca51e399f740b7
+Description: Unlock 乗換案内プラス features of Yahoo!乗換案内 app. Tested on 9.x.x
+Name: YahooTransitPlus
+Author: mafu
+
 Package: com.noisyflake.velvet2
 Architecture: iphoneos-arm64
 Version: 2.2.0
@@ -2200,36 +2234,3 @@ Description: A mini version of Bea maintaining basic features for latest version
 Name: MiniBea
 Author: yan
 
-Package: com.m4fn3.yahootransitplus
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: Tweaks
-Maintainer: mafu
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.m4fn3.yahootransitplus_1.0.0_iphoneos-arm64.deb
-Size: 3486
-MD5sum: 27091137bf71da3a36412bf6266711e3
-SHA1: cde0a88eea8b9e593990d439ec674c2487283ff5
-SHA256: 9bb66fdef1aa5e0fb6030fcdfe2ae6911232ca3171fdf49240dc0d6a3758764c
-SHA512: 8c299c1a7e34e09cfdc7517a93e64f4059c856b87cacd53b3790cc2c008bef4c15c0d373d1f63a3ea64745627d41991aeb062991120754039e824942c283f0b5
-Description: Unlock 乗換案内プラス features of Yahoo!乗換案内 app. Tested on 9.x.x
-Name: YahooTransitPlus
-Author: mafu
-
-Package: com.m4fn3.yahootransitplus
-Architecture: iphoneos-arm64e
-Version: 1.0.0
-Section: Tweaks
-Maintainer: mafu
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.m4fn3.yahootransitplus_1.0.0_iphoneos-arm64e.deb
-Size: 3426
-MD5sum: a9f60719520304e855f2c732649d6c14
-SHA1: d881603fbf3658ab4fce6e5d6c9e3683ecffe38c
-SHA256: 0095e5dfcb22285786eb9f0625f4b9eee5a5aa162259d87effe8b0b05e91f052
-SHA512: 7ddfea228e8ba21c0960b2e60e0908764e2ceb2b85a808b07b14ed9eb3589732faaebf365c1726cab19b54c7cf3bf7d02cc47ae498e1a49eb9ca51e399f740b7
-Description: Unlock 乗換案内プラス features of Yahoo!乗換案内 app. Tested on 9.x.x
-Name: YahooTransitPlus
-Author: mafu
