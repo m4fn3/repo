@@ -13,6 +13,11 @@
           "useSpacing": true
         },
         {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Want more than icons?\n**Mikkyy Pro** themes the rest of the interface as well — Settings rows, Control Center, the status bar, and artwork inside apps — and adds icon masks, custom corner radius, and icon size.\n\nCurrently for iOS 17. [See what Pro adds](https://m4fn3.github.io/repo/web/MikkyyPro.html)",
+          "useSpacing": true
+        },
+        {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
           "itemSize": "{160, 346}",

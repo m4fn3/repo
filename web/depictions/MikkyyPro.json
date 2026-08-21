@@ -1,0 +1,101 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#F59B3D",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## Modern, lightweight interface theming engine\nEverything in Mikkyy, plus system UI theming, status bar theming, icon masks, and the icon adjustments.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{160, 346}",
+          "screenshots": [
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/MikkyyPro_preview1.jpg",
+              "accessibilityText": "The Mikkyy Pro preference pane: master switch, theme picker, icon mask, and UI theming"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/MikkyyPro_preview2.jpg",
+              "accessibilityText": "The Mikkyy Pro preference pane: corner radius, icon size, and the Home Screen options"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/MikkyyPro_preview3.jpg",
+              "accessibilityText": "A themed Home Screen with custom app icons, a themed dock, a live Clock, and themed status bar artwork"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/MikkyyPro_preview4.jpg",
+              "accessibilityText": "Themed artwork inside Safari, down to the menu icons"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/MikkyyPro_preview5.jpg",
+              "accessibilityText": "A themed share sheet, with the action icons taking the theme's artwork"
+            },
+            {
+              "url": "https://m4fn3.github.io/repo/web/depictions/images/MikkyyPro_preview6.jpg",
+              "accessibilityText": "Themed Control Center modules and tiles"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Highlights",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Everything in the free Mikkyy: themed app icons on every surface, plus live Calendar and Clock icons\n- Settings rows, tab bars, and the system symbols used throughout iOS\n- Control Center modules and tiles, share sheet icons, switch and slider knobs, the phone keypad, and weather artwork\n- Status bar battery, signal, and Wi-Fi artwork, still turning red when low and yellow in Low Power Mode\n- In-app artwork for themes that dress the inside of an app (optional)\n- Icon masks, corner radius, icon size, hide icon labels, hide touch overlays, prefer 3x artwork\n- Built to stay fast, even with themes that carry thousands of images\n\nInstalling Mikkyy Pro replaces the free package and keeps your settings.\n\nExisting SnowBoard themes can be used as they are.\n\nFor full details and purchase information, please visit the [official website](https://m4fn3.github.io/repo/web/MikkyyPro.html).\n\n### Other tweaks\n**[Myrtle](https://m4fn3.github.io/repo/web/Myrtle.html)**  \nUltimate multitasking from one edge gesture\n\n**[K2gecamen](https://m4fn3.github.io/repo/web/K2gecamen.html)**  \nCapture moments anytime in the background\n\n**[K2geIsland](https://m4fn3.github.io/repo/web/K2geIsland.html)**  \nUltimate customization for Dynamic Island",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Price",
+          "text": "650 JPY (≒3.99 USD)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "iOS 17 (more to come)"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🌐 Full details on the website",
+          "action": "https://m4fn3.github.io/repo/web/MikkyyPro.html",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "🛒 Purchase Mikkyy Pro",
+          "action": "https://ko-fi.com/s/e9bf43fc5c",
+          "openExternal": true
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## 1.0.0 - 2026-08-21\n- Initial release.",
+          "useSpacing": true
+        }
+      ]
+    }
+  ]
+}

@@ -7,6 +7,7 @@ SRC = "/Users/mafu/Documents/tweak/repo/web/images"
 OUT = "/Users/mafu/Documents/tweak/repo/web/images/banners"
 
 BANNERS = [
+    ("MikkyyPro",  "#F59B3D", "Modern, lightweight\ninterface theming engine", "Mikkyy", "Mikkyy Pro"),
     ("K2gecamen",  "#16A4C5", "Capture moments anytime\nin the background"),
     ("Myrtle",     "#40BFB5", "Ultimate multitasking\nfrom one edge gesture"),
     ("K2geIsland", "#FF9B76", "Ultimate customization\nfor Dynamic Island"),
@@ -54,12 +55,12 @@ def rounded(icon, size, radius):
     return icon
 
 
-def build(name, tint, subtitle):
+def build(name, tint, subtitle, icon=None, title=None):
     base = rgb(tint)
     img = gradient(scale(base, 1.15), scale(base, 0.45))
 
     icon_size, pad = 230, 56
-    icon = rounded(Image.open(f"{SRC}/{name}.png"), icon_size, 48)
+    icon = rounded(Image.open(f"{SRC}/{icon or name}.png"), icon_size, 48)
     icon_y = (H - icon_size) // 2
 
     # soft drop shadow under the icon
@@ -75,7 +76,7 @@ def build(name, tint, subtitle):
     lines = subtitle.split("\n")
     block_h = 80 + len(lines) * 40
     ty = (H - block_h) // 2
-    d.text((tx, ty), name, font=title_font, fill=(255, 255, 255, 255))
+    d.text((tx, ty), title or name, font=title_font, fill=(255, 255, 255, 255))
     for i, line in enumerate(lines):
         d.text((tx, ty + 86 + i * 40), line, font=sub_font, fill=(255, 255, 255, 215))
 

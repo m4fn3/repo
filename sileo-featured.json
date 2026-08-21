@@ -4,6 +4,12 @@
   "itemCornerRadius": 10,
   "banners": [
     {
+      "url": "https://m4fn3.github.io/repo/web/images/banners/MikkyyPro.png",
+      "title": "Mikkyy Pro",
+      "package": "com.m4fn3.mikkyy.pro",
+      "hideShadow": false
+    },
+    {
       "url": "https://m4fn3.github.io/repo/web/images/banners/K2gecamen.png",
       "title": "K2gecamen",
       "package": "com.m4fn3.k2gecamen",
