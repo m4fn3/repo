@@ -851,6 +851,50 @@ Description: Enhance features of Enmity plugins by mafu
 Name: K2genmity
 Author: mafu
 
+Package: com.m4fn3.mikkyy.pro
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: m4fn3
+Installed-Size: 9184
+Provides: com.m4fn3.mikkyy
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.m4fn3.mikkyy
+Replaces: com.m4fn3.mikkyy
+Filename: ./debs/com.m4fn3.mikkyy.pro_1.0.0_iphoneos-arm64.deb
+Size: 2035088
+MD5sum: 3f5da678b1799bdd779a64db866a4d07
+SHA1: 14f32571e5f30520cab804adf498c50311863ac8
+SHA256: 898ed27670166394a0cc7ff88e1f8c3d8861e1884925fccd9744a4a3d480c5dd
+SHA512: 5edccd0976645fb4178c62e311144c0b34684a93636edfca858ce444c3eca156a6fcd8d91507bdeee879799540e4c75a05acf7eddaee2187a817ca3f26f18411
+Description: Everything in Mikkyy, plus UI theming beyond app icons and the full set of icon adjustments — corner radius, icon scale, label and overlay options.
+Name: Mikkyy Pro
+Author: m4fn3
+Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/MikkyyPro.json
+
+Package: com.m4fn3.mikkyy.pro
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: m4fn3
+Installed-Size: 9168
+Provides: com.m4fn3.mikkyy
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.m4fn3.mikkyy
+Replaces: com.m4fn3.mikkyy
+Filename: ./debs/com.m4fn3.mikkyy.pro_1.0.0_iphoneos-arm64e.deb
+Size: 2059160
+MD5sum: f30bded17711460708867beddd811459
+SHA1: e3c19e8d6709b73ca4a4d72218626ec4b584ecbe
+SHA256: d066dbb9bcac821a3e2c62408b64b2de0e7efff1db8f026e2aad65985628be56
+SHA512: ec0d277d2a757baff81a38314a929b7c4c90f99ba9e30b2df6e8bcdc541565a3873f8c29743f3973cac8e3ec79a03ee16c3ea34957357c1fe3c851a74ddd14ba
+Description: Everything in Mikkyy, plus UI theming beyond app icons and the full set of icon adjustments — corner radius, icon scale, label and overlay options.
+Name: Mikkyy Pro
+Author: m4fn3
+Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/MikkyyPro.json
+
 Package: com.m4fn3.mikkyy
 Architecture: iphoneos-arm64
 Version: 1.0.0
