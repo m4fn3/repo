@@ -19,7 +19,7 @@
           "screenshots": [
             {
               "url": "https://m4fn3.github.io/repo/web/depictions/images/MikkyyPro_preview1.jpg",
-              "accessibilityText": "The Mikkyy Pro preference pane: master switch, theme picker, icon mask, and UI theming"
+              "accessibilityText": "The Mikkyy Pro preference pane: master switch, theme picker, icon mask, icon effects, and UI theming"
             },
             {
               "url": "https://m4fn3.github.io/repo/web/depictions/images/MikkyyPro_preview2.jpg",
@@ -51,7 +51,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Everything in the free Mikkyy: themed app icons on every surface, plus live Calendar and Clock icons\n- Settings rows, tab bars, and the system symbols used throughout iOS\n- Control Center modules and tiles, share sheet icons, switch and slider knobs, the phone keypad, and weather artwork\n- Status bar battery, signal, and Wi-Fi artwork, still turning red when low and yellow in Low Power Mode\n- In-app artwork for themes that dress the inside of an app (optional)\n- Icon masks, corner radius, icon size, hide icon labels, hide touch overlays, prefer 3x artwork\n- Built to stay fast, even with themes that carry thousands of images\n\nInstalling Mikkyy Pro replaces the free package and keeps your settings.\n\nExisting SnowBoard themes can be used as they are.\n\nFor full details and purchase information, please visit the [official website](https://m4fn3.github.io/repo/web/MikkyyPro.html).\n\n### Other tweaks\n**[Myrtle](https://m4fn3.github.io/repo/web/Myrtle.html)**  \nUltimate multitasking from one edge gesture\n\n**[K2gecamen](https://m4fn3.github.io/repo/web/K2gecamen.html)**  \nCapture moments anytime in the background\n\n**[K2geIsland](https://m4fn3.github.io/repo/web/K2geIsland.html)**  \nUltimate customization for Dynamic Island",
+          "markdown": "- Everything in the free Mikkyy: themed app icons on every surface, plus live Calendar and Clock icons\n- Settings rows, tab bars, and the system symbols used throughout iOS\n- Control Center modules and tiles, share sheet icons, switch and slider knobs, the phone keypad, and weather artwork\n- Status bar battery, signal, and Wi-Fi artwork, still turning red when low and yellow in Low Power Mode\n- In-app artwork for themes that dress the inside of an app (optional)\n- Icon masks, corner radius, icon size, hide icon labels, hide touch overlays, prefer 3x artwork\n- Themed icon badges, and icon effects — overlay, underlay, and shadow — on every Home Screen icon\n- Built to stay fast, even with themes that carry thousands of images\n\nInstalling Mikkyy Pro replaces the free package and keeps your settings.\n\nExisting SnowBoard themes can be used as they are.\n\nFor full details and purchase information, please visit the [official website](https://m4fn3.github.io/repo/web/MikkyyPro.html).\n\n### Other tweaks\n**[Myrtle](https://m4fn3.github.io/repo/web/Myrtle.html)**  \nUltimate multitasking from one edge gesture\n\n**[K2gecamen](https://m4fn3.github.io/repo/web/K2gecamen.html)**  \nCapture moments anytime in the background\n\n**[K2geIsland](https://m4fn3.github.io/repo/web/K2geIsland.html)**  \nUltimate customization for Dynamic Island",
           "useSpacing": true
         },
         {
@@ -60,12 +60,12 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.0.0"
+          "text": "1.0.1"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Price",
-          "text": "650 JPY (≒3.99 USD)"
+          "text": "800 JPY (≒4.99 USD)"
         },
         {
           "class": "DepictionTableTextView",
@@ -92,7 +92,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## 1.0.0 - 2026-08-21\n- Initial release.",
+          "markdown": "## 1.0.1 - 2026-08-22\n- Icon badge support: a theme that ships badge artwork now replaces the red count bubble.\n- Icon effect support: a theme's overlay, underlay, and shadow artwork is now drawn with every Home Screen icon.\n- Fixed the dialler's call button not being themed.\n- Added a compatibility layer for older themes that name their passcode art `<digit>Passcode`.\n- Fixed a potential crash in status bar theming on dual-SIM devices.\n- The theme folder is now created on install when it does not exist.\n\n## 1.0.0 - 2026-08-21\n- Initial release.",
           "useSpacing": true
         }
       ]

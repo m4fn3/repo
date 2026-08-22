@@ -38,9 +38,9 @@
     </div>
     <div class="detail_content">
         <div class="detail_text">
-            <p>Mikkyy Pro is the modern, lightweight interface theming engine. App icons, System glyphs, Settings rows, Control Center, the status bar, and artwork inside apps can be themed.</p>
+            <p>Mikkyy Pro is the modern, lightweight interface theming engine. App icons, System glyphs, Settings rows, Control Center, Icon Badge, the status bar, and artwork inside apps can be themed.</p>
             <p>Mikkyy itself is free and themes app icons everywhere iOS shows them. Pro is the same engine with everything beyond app icons unlocked. Installing Pro replaces the free package and keeps your settings.</p>
-            <p>Large themes stay fast. Mikkyy reads a theme's contents once and reuses artwork it has already drawn, so even a theme with thousands of images does not slow down app launches or the Home Screen, and applying one does not mean waiting.</p>
+            <p>Large themes stay fast. Mikkyy reads a theme's contents once and reuses artwork it has already drawn, so even a theme with thousands of images does not slow down app launches or the Home Screen.</p>
 
             <div class="detail_preview_box">
                 <div class="detail_preview">
@@ -96,9 +96,9 @@
             <p>Everything the free Mikkyy does — themed app icons on the Home Screen, dock, App Switcher, share sheet, the app list in Settings, folder previews and the App Library, plus the live Calendar date and the live Clock face and hands — and then the rest of the interface.</p>
             <h2>System UI theming</h2>
             <p>
-                Your theme reaches past app icons into the interface itself:<br>
+                Your theme can theme interfaces like:<br>
                 ・Settings rows — Wi-Fi, Bluetooth, Battery, and the rest<br>
-                ・Tab bars, toolbars, and the system symbols<br>
+                ・Global system glyphs<br>
                 ・Control Center modules and tiles<br>
                 ・Share sheet action icons<br>
                 ・Switch and slider knobs<br>
@@ -116,6 +116,12 @@
                 Pick a mask and every Home Screen icon is cut to that shape — circles, squares, or anything else the mask defines — including apps your theme has no icon for, so the whole screen stays consistent.<br>
                 If the theme you are using ships its own mask, it is used automatically. Folder backgrounds are cut to the same shape.
                 Icon masks take precedence over corner radius, so if a mask is selected, the corner radius option is ignored.
+            </p>
+            <h2>Icon badges and effects</h2>
+            <p>
+                A theme that ships badge artwork replaces the red count bubble, and the count text takes the theme's own styling. <br>
+                Icon effects — overlay, underlay, and shadow artwork drawn with every Home Screen icon — apply from themes that carry them, in the same layout SnowBoard and Anemone use. An overlay sits on top of the icon, an underlay behind it, and a shadow spills past the icon's own bounds.<br>
+                <b>Option:</b> effects are picked from one theme at a time in “Icon effects”, rather than layered like icon artwork.
             </p>
             <h2>Icon adjustments</h2>
             <p>
@@ -145,6 +151,12 @@
 
             <h1>Changelogs</h1>
             <p>
+                8/22 - v1.0.1: - New: icon badge support — a theme that ships badge artwork replaces the red count bubble <br>
+                - New: icon effect support — a theme's overlay, underlay, and shadow artwork is drawn with every Home Screen icon <br>
+                - New: the theme folder is created on install when it does not exist <br>
+                - Added a compatibility layer for older themes that name their passcode art <code>&lt;digit&gt;Passcode</code> <br>
+                - Fix: the dialler's call button was not themed <br>
+                - Fix: a potential crash in status bar theming on dual-SIM devices <br>
                 8/21 - v1.0.0: First release<br>
             </p>
         </div>
