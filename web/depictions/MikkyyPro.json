@@ -60,7 +60,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.0.1"
+          "text": "1.0.2"
         },
         {
           "class": "DepictionTableTextView",
@@ -92,7 +92,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## 1.0.1 - 2026-08-22\n- Icon badge support: a theme that ships badge artwork now replaces the red count bubble.\n- Icon effect support: a theme's overlay, underlay, and shadow artwork is now drawn with every Home Screen icon.\n- Fixed the dialler's call button not being themed.\n- Added a compatibility layer for older themes that name their passcode art `<digit>Passcode`.\n- Fixed a potential crash in status bar theming on dual-SIM devices.\n- The theme folder is now created on install when it does not exist.\n\n## 1.0.0 - 2026-08-21\n- Initial release.",
+          "markdown": "## 1.0.2 - 2026-09-02\n- Data collection mode: for theme authors — writes every themeable image out as a ready-to-paint theme skeleton, in the same layout SnowBoard's collector uses.\n- Calendar icon: the live Calendar icon's date text now supports size and position adjustment.\n- Added compatibility for themes whose folder is named with a short bundle name.\n- Themed glyphs are now sharper and rendered at the correct size.\n- Fixed themed glyph colours across light and dark appearance.\n- Fixed themed glyphs to fit correctly inside the stock symbol box.\n- Improved status bar theming, including the battery.\n- Fixed unintended theming of some Lock Screen glyphs.\n- Improved theming of the Settings row icons and the share sheet icons.\n- The Clock icon now receives icon effects and Custom Icon Size like the other icons.\n- Improved small-icon scaling and icon drawing performance.\n\n## 1.0.1 - 2026-08-22\n- Icon badge support: a theme that ships badge artwork now replaces the red count bubble.\n- Icon effect support: a theme's overlay, underlay, and shadow artwork is now drawn with every Home Screen icon.\n- Fixed the dialler's call button not being themed.\n- Added a compatibility layer for older themes that name their passcode art `<digit>Passcode`.\n- Fixed a potential crash in status bar theming on dual-SIM devices.\n- The theme folder is now created on install when it does not exist.\n\n## 1.0.0 - 2026-08-21\n- Initial release.",
           "useSpacing": true
         }
       ]

@@ -2322,3 +2322,46 @@ Description: A mini version of Bea maintaining basic features for latest version
 Name: MiniBea
 Author: yan
 
+Package: com.m4fn3.mikkyy.pro
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: m4fn3
+Installed-Size: 11388
+Provides: com.m4fn3.mikkyy
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.m4fn3.mikkyy
+Replaces: com.m4fn3.mikkyy
+Filename: ./debs/com.m4fn3.mikkyy.pro_1.0.2_iphoneos-arm64.deb
+Size: 2503074
+MD5sum: ceefd7ba27afffda97157a526d311fd8
+SHA1: 2fe41fd9dfa6302f831ad289a60d1534d9d38ac4
+SHA256: 7e364010f57ccdf72a0acdf75a742b6143c9f7de3644153ddd363b3cf50598c5
+SHA512: c61f7286cbf203e03419304fe25780e5d46695ff2d1ecea801e7e38626ec432e22b99ca672f6f04b3d7516b711a645cb5b365f1147fbbac2f22f6aa98f24f79b
+Description: Everything in Mikkyy, plus UI theming beyond app icons and the full set of icon adjustments — corner radius, icon scale, label and overlay options.
+Name: Mikkyy Pro
+Author: m4fn3
+Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/MikkyyPro.json
+
+Package: com.m4fn3.mikkyy.pro
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: m4fn3
+Installed-Size: 11336
+Provides: com.m4fn3.mikkyy
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.m4fn3.mikkyy
+Replaces: com.m4fn3.mikkyy
+Filename: ./debs/com.m4fn3.mikkyy.pro_1.0.2_iphoneos-arm64e.deb
+Size: 2594136
+MD5sum: dd6ab62029bb4179811a8ecd94b3ddfc
+SHA1: 7e4d6b425405eaa617974a98b5444ce5754deb0a
+SHA256: 7a6813c437d2b420572fc5620eb81f1a77dec3188cf49ceb39414b96c7fa1821
+SHA512: 2af021ce0d4320f48c05a931d2cefb581220fc8d73c95b07c01e3fcf29245ff6a3f10f93b1c1f60db9107ae5b1e9679a1fadb0e772fbd53bd1c5ef012bea5581
+Description: Everything in Mikkyy, plus UI theming beyond app icons and the full set of icon adjustments — corner radius, icon scale, label and overlay options.
+Name: Mikkyy Pro
+Author: m4fn3
+Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/MikkyyPro.json
