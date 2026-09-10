@@ -1027,6 +1027,50 @@ Author: m4fn3
 Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
 SileoDepiction: https://m4fn3.github.io/repo/web/depictions/MikkyyPro.json
 
+Package: com.m4fn3.mikkyy.pro
+Architecture: iphoneos-arm64
+Version: 1.0.4
+Section: Tweaks
+Maintainer: m4fn3
+Installed-Size: 11868
+Provides: com.m4fn3.mikkyy
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.m4fn3.mikkyy
+Replaces: com.m4fn3.mikkyy
+Filename: ./debs/com.m4fn3.mikkyy.pro_1.0.4_iphoneos-arm64.deb
+Size: 2687418
+MD5sum: 73b20c47638bd3f81ec79b6c99af3235
+SHA1: b1f21a241588d11d9f5baff98e8210fcff6c8a5e
+SHA256: 748d20e7f516bca963ea1d17792c6a8ddd40570061e567b0dfe6a54ed8022f02
+SHA512: 09ce606adaf2f3cd5f0b309535e03ef556c81e86a2829b5f71fe94bc882f209a02884c5aa540fc1e6e4dab1225b14ba834d4c911914e4813a7b51517682b8af3
+Description: Everything in Mikkyy, plus UI theming beyond app icons and the full set of icon adjustments — corner radius, icon scale, label and overlay options.
+Name: Mikkyy Pro
+Author: m4fn3
+Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/MikkyyPro.json
+
+Package: com.m4fn3.mikkyy.pro
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: Tweaks
+Maintainer: m4fn3
+Installed-Size: 11852
+Provides: com.m4fn3.mikkyy
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.m4fn3.mikkyy
+Replaces: com.m4fn3.mikkyy
+Filename: ./debs/com.m4fn3.mikkyy.pro_1.0.4_iphoneos-arm64e.deb
+Size: 2692156
+MD5sum: 8bc401211b5c657da6da1baf4e67ebea
+SHA1: 8fc13fe00282681df500848601fa113c63cdd352
+SHA256: 2967efbb150200fb6f774cb6c85b1f7e4a107966d8c70cd38bc6e67bdab953b9
+SHA512: 80ca525349cbbdc7bd321459c32e1244a9ec33af33ced99c5a7a627e311694b76c4395e9e2f061ab6af6bb39408f9246833e70165dcd3024cde605a7e3e47e19
+Description: Everything in Mikkyy, plus UI theming beyond app icons and the full set of icon adjustments — corner radius, icon scale, label and overlay options.
+Name: Mikkyy Pro
+Author: m4fn3
+Icon: https://m4fn3.github.io/repo/web/images/Mikkyy.png
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/MikkyyPro.json
+
 Package: com.m4fn3.mikkyy
 Architecture: iphoneos-arm64
 Version: 1.0.0
