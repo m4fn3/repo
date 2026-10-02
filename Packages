@@ -2355,6 +2355,40 @@ Description: pip enabler & ads blocker for Netflix ads plan
 Name: Neetflix
 Author: mafu
 
+Package: com.m4fn3.noshortcutnotification
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.noshortcutnotification_1.0.0_iphoneos-arm64.deb
+Size: 3226
+MD5sum: 4e51b516941a01879b5c5c2d9f720798
+SHA1: 80dcc82e4ab1e0645afca1157e945633d4fcaa07
+SHA256: 58a5b01f4fbf149a9cb1cb5ae650273c2b4bf5710cd641b0ddb58cd37962b261
+SHA512: a5d4d9b6bc96c247f0019b64eb53403771949d03b30c373dfd70fc22b755f0bb3f280b2a6ef649f85f3187e13359d2eca92f1d2217252daa72a88b8ce314db10
+Description: Suppress notifications of Shortcuts on iOS17
+Name: NoShortcutNotification
+Author: mafu
+
+Package: com.m4fn3.noshortcutnotification
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.noshortcutnotification_1.0.0_iphoneos-arm64e.deb
+Size: 3160
+MD5sum: 8e5c08910459ff540d7bf46e33ab27e0
+SHA1: 8cb224f14a38f2d37ef307394a37d35823b23eed
+SHA256: de84fa7641ddfbb513a7e16d45342dcb68ae734d5523301bdb8d099178dcd33b
+SHA512: cb0ac574dbb0ef7b576705a8c4cf4c36f4193e638eaf3e0afaa69b89596aee28083bbe293fe69e8ac78ad44eb745fe1f3a38f6819c9e079f9b409db4e79bc6f8
+Description: Suppress notifications of Shortcuts on iOS17
+Name: NoShortcutNotification
+Author: mafu
+
 Package: com.m4fn3.yahootransitplus
 Architecture: iphoneos-arm64
 Version: 1.0.0
