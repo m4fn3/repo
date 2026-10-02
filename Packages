@@ -2321,6 +2321,40 @@ Name: Myrtle
 Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
 
+Package: com.m4fn3.neetflix
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.neetflix_1.0.0_iphoneos-arm64.deb
+Size: 3236
+MD5sum: 8a05e4b3ca853170d3a1f2d765760a09
+SHA1: b6c45afc49751070518b87aec778e690d02f7551
+SHA256: 297caf222ed07c92df608999a7841a6d7a7b94b5947128f9d6786029f9af8dca
+SHA512: 7c4b7c43989b2c2bde621deeffc69b27c30f202fa4a7af40679deed0f6c51024740a4ef763be3613f226e8e9ea86604c7170f0d99cfaaef7281afae4391c1f68
+Description: pip enabler & ads blocker for Netflix ads plan
+Name: Neetflix
+Author: mafu
+
+Package: com.m4fn3.neetflix
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m4fn3.neetflix_1.0.0_iphoneos-arm64e.deb
+Size: 3160
+MD5sum: bd7a88f3039b5740c17f8b22e6bdd907
+SHA1: f561d896d5d3bad1bf0077f4cd4f0e9f451e924d
+SHA256: 52d3540811629c7d49e5dea46e2e7899af997faf7ac257ee11213dcf732c4926
+SHA512: 8d69873c309fbc696ec327b2bbb026244a2fb3495365a0b303b6726285d04db098da6ca90f2476ed979cc3b717f7aa38b2a6dad8a72d322988ea937ed2ee6135
+Description: pip enabler & ads blocker for Netflix ads plan
+Name: Neetflix
+Author: mafu
+
 Package: com.m4fn3.yahootransitplus
 Architecture: iphoneos-arm64
 Version: 1.0.0
