@@ -651,26 +651,6 @@ Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
 
 Package: com.m4fn3.k2gecamen
 SileoDepiction: https://m4fn3.github.io/repo/web/depictions/K2gecamen.json
-Architecture: iphoneos-arm64e
-Version: 1.0.5
-Section: Tweaks
-Maintainer: mafu
-Installed-Size: 6204
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
-Filename: ./debs/com.m4fn3.k2gecamen_1.0.5_iphoneos-arm64e.deb
-Size: 5831968
-MD5sum: b254f9ace626ba00c5d5fab3ac7324a1
-SHA1: b43ab8d43ba81e3bf3fd0abe5c677ac2fd4fc941
-SHA256: 67b2ebf1f4cf82649dce1d1af5a161e1ca717ab3fac0eba4427ae2d5c2d9a2c6
-SHA512: 030d156b0a70e236f12bff1c46f1adb454ddb07afd479fa217ff13d1337978f1b918154b1753b77b2943a8f138395dd63675fb415465e6441c449be9b3d278b6
-Description: Capture moments with photos, videos, and audio in the background with ease.
-Name: K2gecamen
-Author: mafu
-Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
-
-Package: com.m4fn3.k2gecamen
-SileoDepiction: https://m4fn3.github.io/repo/web/depictions/K2gecamen.json
 Architecture: iphoneos-arm
 Version: 1.1.0
 Section: Tweaks
