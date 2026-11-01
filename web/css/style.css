@@ -310,3 +310,26 @@ h2 {
     padding: 0;
     text-align: center;
 }
+/* 見出し階層の整理（h1=製品名のみ）。以前の h1/h2/h3 の見た目を class で維持する */
+.h1 {
+    color: #442424;
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+.h2 {
+    color: #442424;
+    font-size: 20px;
+    margin: 0.83em 0;
+}
+
+.h3 {
+    color: #442424;
+    font-size: 1.17em;
+    margin: 1em 0;
+}
+
+.package h1.package_name,
+h1.home_desc {
+    font-weight: normal;
+}

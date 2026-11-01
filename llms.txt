@@ -1,0 +1,22 @@
+# mafu's repo
+
+> A Cydia, Sileo, Zebra and Installer package source for jailbreak tweaks by mafu (m4fn3): Mikkyy Pro, Myrtle, K2gecamen, K2geIsland and K2ge3Air.
+
+Add `https://m4fn3.github.io/repo` to your package manager, then install a tweak from the package list. Paid tweaks are activated with a license key bought on Ko-fi (PayPal or credit card). License terms are on each tweak's page.
+
+## Tweaks
+
+- [Mikkyy Pro](https://m4fn3.github.io/repo/web/MikkyyPro.html): Interface theming engine (app icons, Settings, Control Center, status bar, dock, icon masks, badges). iOS 16-17; rootful, rootless, roothide. SnowBoard themes work as they are. 800 JPY.
+- [Myrtle](https://m4fn3.github.io/repo/web/Myrtle.html): App switching, floating windows and system actions from one edge gesture. iOS 15-26; rootful, rootless, roothide. 1000 JPY. A [Simplified Chinese page](https://m4fn3.github.io/repo/web/Myrtle_zh_hans.html) is available.
+- [K2geIsland](https://m4fn3.github.io/repo/web/K2geIsland.html): Notifications and customization for Dynamic Island. iOS 16-17; rootful, rootless, roothide; needs a native Dynamic Island or a compatible enabler. 750 JPY.
+- [K2gecamen](https://m4fn3.github.io/repo/web/K2gecamen.html): Background photo, video and audio recording, started from hardware-button gestures or Control Center. iOS 14-17; rootful, rootless, roothide (Serotonin is not supported). 1000 JPY.
+- [K2ge3Air](https://m4fn3.github.io/repo/web/K2ge3Air.html): Adds features to the LINE app (iPad login, read users, hide read, disable unsend, themes, ad removal). Jailbreak (iOS 15-17), TrollStore, Bootstrap or sideloading. Tested LINE versions v14.6.3 / v15.7.2 / v15.20.4. 750 JPY. [Japanese page](https://m4fn3.github.io/repo/web/K2ge3Air_ja.html).
+- [K2ge3](https://m4fn3.github.io/repo/web/K2ge3.html): Discontinued LINE tweak (LINE up to v14.9.2). No longer sold; succeeded by K2ge3Air. [Japanese page](https://m4fn3.github.io/repo/web/K2ge3_ja.html).
+
+## Links
+
+- [Repository home](https://m4fn3.github.io/repo/)
+- [Sitemap](https://m4fn3.github.io/repo/sitemap.xml)
+- [GitHub](https://github.com/m4fn3)
+- [Twitter](https://twitter.com/m4fn3)
+- Contact: m4fn3q@gmail.com
