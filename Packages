@@ -689,25 +689,6 @@ Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
 
 Package: com.m4fn3.k2geisland
 SileoDepiction: https://m4fn3.github.io/repo/web/depictions/K2geIsland.json
-Architecture: iphoneos-arm
-Version: 1.0.0
-Section: Tweaks
-Maintainer: mafu
-Installed-Size: 7200
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.m4fn3.k2geisland_1.0.0_iphoneos-arm.deb
-Size: 2668280
-MD5sum: 34e84f7716bbecdcf1dde767a8386f09
-SHA1: b63341227c679338e609cb073febf9042d6fbd98
-SHA256: 92c51b866c957251d80a5ac8bd5d4abf7d8ef8578f318e8c15e9c0d7b4de3e2d
-SHA512: 0701cb5626cbb9d9cea4b88a65ba6d47345d93b6433d8265925d3c50d360dcd2a488fe3e9514c48e0519244698edf8103e5bc6766120f63fdb1f2b4e699dc9d0
-Description: Ultimate customization for your Dainamikku Airando!
-Name: K2geIsland
-Author: mafu
-Icon: https://m4fn3.github.io/repo/web/images/K2geIsland.png
-
-Package: com.m4fn3.k2geisland
-SileoDepiction: https://m4fn3.github.io/repo/web/depictions/K2geIsland.json
 Architecture: iphoneos-arm64
 Version: 1.0.0
 Section: Tweaks
@@ -727,25 +708,6 @@ Icon: https://m4fn3.github.io/repo/web/images/K2geIsland.png
 
 Package: com.m4fn3.k2geisland
 SileoDepiction: https://m4fn3.github.io/repo/web/depictions/K2geIsland.json
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: mafu
-Installed-Size: 14528
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.m4fn3.k2geisland_1.0.1_iphoneos-arm.deb
-Size: 5077994
-MD5sum: 83985a8c535c9f91581e10350b118157
-SHA1: 51969e5c62074bd1c09e787a813628ea64627835
-SHA256: e3c7ab7917523c715764ca2714fe3145916e92d92bca1e566f908a8f9a960077
-SHA512: cd0cae231f4fd95218d97cb09458eb2ee533272b84750c8ecc81055e68efff129ef0cd725438bd52c120c9e61e7961dfa2ffb74e25996b952c73eecff6c6bbd1
-Description: Ultimate customization for your Dynamic Island!
-Name: K2geIsland
-Author: mafu
-Icon: https://m4fn3.github.io/repo/web/images/K2geIsland.png
-
-Package: com.m4fn3.k2geisland
-SileoDepiction: https://m4fn3.github.io/repo/web/depictions/K2geIsland.json
 Architecture: iphoneos-arm64
 Version: 1.0.1
 Section: Tweaks
@@ -758,6 +720,44 @@ MD5sum: ebe24862828dfffd493986077cf1eeac
 SHA1: b4111370d5731c8eefed7ae78e7cb9c69c22550e
 SHA256: 7963c1cb63c9d0d9d914a5ec91ed5c5b1b7259265b9a67c969729287c812f717
 SHA512: e3977dd7a783995fd10a845b748186e8771f6f1d5115d817c256c81d8c319f3f04a5dc654ffd779c4e1e16534ef82059a08cda3e407433005164a39c29ba95a4
+Description: Ultimate customization for your Dynamic Island!
+Name: K2geIsland
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2geIsland.png
+
+Package: com.m4fn3.k2geisland
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/K2geIsland.json
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 18020
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.k2geisland_1.1.0_iphoneos-arm64.deb
+Size: 3576462
+MD5sum: d5755346e17a6717a47835173dcb63ca
+SHA1: 6e03eb7979c5c91b15ac2c7ac1e707ac00c4ae64
+SHA256: ca4623f5d018ac6e59a4bc9d34b0760e8a44f97be1444e0f4229df237ceafe06
+SHA512: ad73d9854b76917a8f0f7fdbfab0e5118e1f9468922bde872a3ec002d9a7a6e38b5aa9e2f992d69c1588500d88e95cd065832bd16ac8ae3cac0ec06568a43f52
+Description: Ultimate customization for your Dynamic Island!
+Name: K2geIsland
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2geIsland.png
+
+Package: com.m4fn3.k2geisland
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/K2geIsland.json
+Architecture: iphoneos-arm64e
+Version: 1.1.0
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 18036
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.k2geisland_1.1.0_iphoneos-arm64e.deb
+Size: 3572954
+MD5sum: 2e0284e1e878986323603fd45fb845e4
+SHA1: 14712d27aa477a4948ccbd3710a3730c582fd5e3
+SHA256: 21fc45ddbe3018e341d16afec4b76143744b5d795b555624ee208f2f4be2195b
+SHA512: 28b5c1624abe9bed39572c7eac68bd46a40d127eb67f86030598bb287f6e485417fc7d03d451e12f6a3bbf05a2ede71de206e5d9a0e14b273c79584e9c65a99f
 Description: Ultimate customization for your Dynamic Island!
 Name: K2geIsland
 Author: mafu
