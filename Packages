@@ -2516,6 +2516,44 @@ Name: Myrtle
 Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
 
+Package: com.m4fn3.myrtle
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/Myrtle.json
+Architecture: iphoneos-arm64
+Version: 1.5.2
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 24832
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.myrtle_1.5.2_iphoneos-arm64.deb
+Size: 5588862
+MD5sum: 8375a293cc1f57a769d8e18d7474faeb
+SHA1: f78e63549022d51ec505c008b5f7e7f8993b43e5
+SHA256: 301d2b2e95e1afd187a8e0de8d86a83d3aee55c511937cbb6fba4fc94fc86e3a
+SHA512: c06e1df61e5a3223233b369b50f3ac93cfcfd4cf7f460c71533d93c1b8c720d6eb0ed36f7aff366b6e4e19b86a255476067f5c53c6dae6141c5f887538af62f5
+Description: Ultimate control over your device through multitasking.
+Name: Myrtle
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
+
+Package: com.m4fn3.myrtle
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/Myrtle.json
+Architecture: iphoneos-arm64e
+Version: 1.5.2
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 24796
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.m4fn3.myrtle_1.5.2_iphoneos-arm64e.deb
+Size: 5583434
+MD5sum: debf243ce87cf792265db05fb125afc9
+SHA1: b3684780b8bbf696a43b202ca6e91768f887adcd
+SHA256: 9c75f073efacc1228b74373713e5c81dcdc326caf49b9515990228d992afc3a3
+SHA512: d0304e4aa0132d0acfce598db6ee246ac7a73675f112a865d747fab59d070d33b6e2c2f24734ae5963c0282b7da054b5b0bd2bf94ab69006d9cab28037b8f7af
+Description: Ultimate control over your device through multitasking.
+Name: Myrtle
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/Myrtle.png
+
 Package: com.m4fn3.neetflix
 Architecture: iphoneos-arm64
 Version: 1.0.0
