@@ -744,6 +744,63 @@ Name: K2gecamen
 Author: mafu
 Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
 
+Package: com.m4fn3.k2gecamen
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/K2gecamen.json
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 17876
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.m4fn3.k2gecamen_1.1.2_iphoneos-arm.deb
+Size: 3504512
+MD5sum: 59ecf3145827fd1f91f1564787d9703c
+SHA1: 7e8c33643dc39cbb28d0af596f3bf9316e66ab94
+SHA256: 044d1ead21919c81e880d6b495b505fbe3a9820037f6c68d51e448cdffb0767d
+SHA512: 8c8e7d42023f7275403d50a3b4fe2ccfa02b839dad37b9e52dddebd3257ae2f1ba45ac0aebdfdfd9009568764dffec22057275a4e72fcf192e8a4f683c8425f6
+Description: Capture moments with photos, videos, and audio in the background with ease.
+Name: K2gecamen
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
+
+Package: com.m4fn3.k2gecamen
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/K2gecamen.json
+Architecture: iphoneos-arm64
+Version: 1.1.2
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 18052
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.m4fn3.k2gecamen_1.1.2_iphoneos-arm64.deb
+Size: 3511688
+MD5sum: 10ef843d86059cce63114a64f3196b88
+SHA1: 6a11b281541617c6036ee48433670009a77844b2
+SHA256: 6bbbb00632f72a5bf0629f0c3e76048113d38060e74db02e29bfd79669823afc
+SHA512: 5563ba206b9f5f4c25b4b961c664967af8f068e42d85e51bfb2a0c710d6a60f6a8b4167b90f367c5656c6ad1e8064b3d0d1ddeee7021ffa4911aac3cd5b5bff3
+Description: Capture moments with photos, videos, and audio in the background with ease.
+Name: K2gecamen
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
+
+Package: com.m4fn3.k2gecamen
+SileoDepiction: https://m4fn3.github.io/repo/web/depictions/K2gecamen.json
+Architecture: iphoneos-arm64e
+Version: 1.1.2
+Section: Tweaks
+Maintainer: mafu
+Installed-Size: 18052
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.m4fn3.k2gecamen_1.1.2_iphoneos-arm64e.deb
+Size: 3509604
+MD5sum: 163f8eb576d408f55e7084f8983fe654
+SHA1: d54e95326c6a1d08c8916fb89de0b704d7b8bf0d
+SHA256: 287eda7685a1af03ffef45cb3812ca213ac8ca975c30c630da07e9ea2485bdd6
+SHA512: 7702e46cae17672667f26d1649182690ced6b4aec45c37bae6aaa4b1b46387729cd0920bdbe67e65bbd9f7c9873f37d3e291b3e34f3cea7e1018af7bf57b8ad3
+Description: Capture moments with photos, videos, and audio in the background with ease.
+Name: K2gecamen
+Author: mafu
+Icon: https://m4fn3.github.io/repo/web/images/K2gecamen.png
+
 Package: com.m4fn3.k2geisland
 SileoDepiction: https://m4fn3.github.io/repo/web/depictions/K2geIsland.json
 Architecture: iphoneos-arm64
