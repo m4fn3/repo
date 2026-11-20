@@ -56,7 +56,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.1.1"
+          "text": "1.1.2"
         },
         {
           "class": "DepictionTableTextView",
@@ -83,7 +83,7 @@
       "views": [
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## 1.1.1 - 2026-11-19\n- Fixed the ringer and lock blacklist on iOS 17.\n- Minor settings cleanup.\n\n## 1.1.0 - 2026-11-18\n- Added a native roothide package.\n- Fixed a possible SpringBoard crash when activating again.\n\n## 1.0.1 - 2026-06-10\n- Added notifications inside Dynamic Island.\n- Added configurable notification gestures, appearance, duration, content, and haptic feedback.\n\n## 1.0.0 - 2024-08-15\n- Initial release with Dynamic Island color, size, position, content, and activity customization.",
+          "markdown": "## 1.1.2 - 2026-11-20\n- Fixed the Dynamic Island position setting having no effect.\n\n## 1.1.1 - 2026-11-19\n- Fixed the ringer and lock blacklist on iOS 17.\n- Minor settings cleanup.\n\n## 1.1.0 - 2026-11-18\n- Added a native roothide package.\n- Fixed a possible SpringBoard crash when activating again.\n\n## 1.0.1 - 2026-06-10\n- Added notifications inside Dynamic Island.\n- Added configurable notification gestures, appearance, duration, content, and haptic feedback.\n\n## 1.0.0 - 2024-08-15\n- Initial release with Dynamic Island color, size, position, content, and activity customization.",
           "useSpacing": true
         },
         {
